@@ -398,8 +398,9 @@ exports.domToText = function ( dom, toolkit ) {
 
     // Nodes that we ignore the contents of
     var skipNodes = {
-        'head': 1,
-        'script': 1
+        'head':   1,
+        'script': 1,
+        'style':  1
     };
 
     // Nodes that map to text values
@@ -425,8 +426,19 @@ exports.domToText = function ( dom, toolkit ) {
         var localName = '';
         if ( node.nodeName ) { localName = node.nodeName.toLowerCase(); }
 
+        // Traverse in to iFrames too
+        if ( localName == 'iframe' ) {
+            var newDoc;
+            try { newDoc = node.contentDocument.documentElement }
+            catch (e) {}
+
+            if (newDoc) {
+                capture += "\n\n\n\n";
+                nodeGrab( newDoc, depth + 1, path + ' > ' + localName  );
+            }
+
         // 3: Text element
-        if ( node.nodeType == 3 ) {
+        } else if ( node.nodeType == 3 ) {
             var rText = toolkit.nodeToText(node);
             capture += rText;
 
