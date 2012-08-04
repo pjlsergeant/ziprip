@@ -11,7 +11,7 @@ a little trickier, but on the roadmap.
 
 **Documentation**: http://zipripjs.com/
 
-ziprip runs both as a node module and in the browser.
+ziprip can run both as a node module and in the browser.
 
 ziprip came from the code that powers http://www.placesteal.com/
 
