@@ -1,16 +1,9 @@
 
-- Proper user documentation
-	- Write documentation so it can be automatically extracted.
-	- Make sure the creation of ziprip.js creates it
 
 - Create a simple example bookmarklet
 	- Shows addresses, a few links
 	- Mashup with https://developers.google.com/maps/documentation/javascript/geocoding
 	- Link to this from the documentation
-
-- Create a website for it
-	- zipripjs.com
-	- https://github.com/mojombo/jekyll
 
 Future:
 	- Add OpenGraph support?

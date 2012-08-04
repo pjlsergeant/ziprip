@@ -35,9 +35,9 @@ __DATA__
 // Usage:
 // var addresses = ziprip.extract( dom, urlString )
 //
-// But see http://www.zipripjs.com/ for full documentation
+// But see http://zipripjs.com/ for full documentation
 
-ziprip = (function () {
+(function () {
 
 var libraries = {};
 
@@ -57,6 +57,6 @@ libraries['[% library.name %]'] = function () {
 
 [% END %]
 
-return require('ziprip')['extract'];
+this.ziprip = require('ziprip');
 
-})();
+}).call(this);

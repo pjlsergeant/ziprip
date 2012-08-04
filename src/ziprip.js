@@ -24,3 +24,6 @@ var extractUsing = require('extractUsing')['extractUsing'];
 exports.extract = function ( dom, url ) {
     return extractUsing( dom, url, exports._zipripToolkit, {}, extractors);
 }
+
+exports.version = "0.0.1";
+

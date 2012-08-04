@@ -7,6 +7,8 @@ It currently supports UK and US addresses only. Extending it to other
 English-language addresses should be trivial, to non-English-language addresses
 a little trickier, but on the roadmap.
 
+**Documentation**: http://zipripjs.org/
+
 ziprip runs both as a node module and in the browser.
 
 ziprip came from the code that powers http://www.placesteal.com/
