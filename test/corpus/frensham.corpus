@@ -1,0 +1,188 @@
+{
+   "addresses" : [
+      {
+         "country" : "UK",
+         "title" : "Frensham Pond Sailing Club",
+         "postcode" : "GU10 2QA",
+         "atoms" : [
+            "Frensham Pond Sailing Club",
+            "Pond Lane",
+            "Churt",
+            "Farnham",
+            "Surrey"
+         ],
+         "via": "Generic"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.fortmason.org/"
+}
+---DIVIDER---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Frensham Pond Sailing Club</title>
+		<meta content="text/html; charset=iso-8859-1" http-equiv="content-type" />
+		<meta content="Frensham Pond Sailing Club" name="description" />
+		<meta content="frensham, sailing, surrey, hampshire, sport, water, youth, fun, leisure, laser, enterprise, GP14, cadet, lark, solo, disabled, sailability, farnham, berkshire, hampshire, special needs, special needs activities, disabled activities, disabled sport" name="keywords" />
+		<link rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" /> </head>
+	<body>
+		<div id="container">
+			<div id="banner"><span id="banner_text"><a href="http://www.sailfrensham.org.uk"><img alt="Frensham Pond Sailing Club" style="border: none" /></a></span> <span id="banner_logo"><img alt="Club of the Year 2009" /></span> </div>
+			<div id="nav">
+				<div class="button" id="info"><span class="buttonlabel" id="infoButton"> <img alt="Open" height="18" width="18" />Information </span> </div>
+				<div class="menu" id="infoMenu">
+					<div class="menuNode"><a href="./clubinfo/about.php">About the club</a></div>
+					<div class="menuNode"><a href="./clubinfo/history.php">History</a></div>
+					<div class="menuNode"><a href="./clubinfo/directions.php">How to get there</a></div>
+					<div class="menuNode"><a href="./clubinfo/membership.php">How to join</a></div>
+					<div class="menuNode"><a href="./clubinfo/contacts.php">Contacts</a></div>
+					<div class="menuNode"><a href="./clubinfo/calendar.php">Club Diary</a></div>
+					<div class="menuNode"><a href="./clubinfo/honours.php">Honours board</a></div>
+					<div class="menuNode"><a href="./clubinfo/commodores.php">Club Commodores</a></div>
+					<div class="menuNode"><a href="./clubinfo/rules.php">Club rules</a></div>
+					<div class="menuNode"><a href="http://www.waverley.gov.uk/site/scripts/documents_info.php?documentID=693&amp;pageNumber=1">Water quality</a></div>
+					<div class="menuNode"><a href="./clubinfo/wireless.php">Wireless internet</a></div> </div>
+				<div class="button" id="news"><span class="buttonlabel" id="newsButton"> <img alt="Open" height="18" width="18" />News &amp; Events </span> </div>
+				<div class="menu" id="newsMenu">
+					<div class="menuNode"><a href="./news/">News</a></div>
+					<div class="menuNode"><a href="./events/social.php">Social Events</a></div>
+					<div class="menuNode"><a href="./events/10hour/race.php">10 Hour Race &amp; BBQ</a></div> </div>
+				<div class="buttonlabel" id="weather" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./weather"><img alt="Weather" height="18" width="18" />Weather</a> </div>
+				<div class="button" id="racing"><span class="buttonlabel" id="racingButton"> <img alt="Open" height="18" width="18" />Racing </span> </div>
+				<div class="menu" id="racingMenu">
+					<div class="menuNode"><a href="./clubinfo/calendar.php">Race Programme</a></div>
+					<div class="menuNode"><a href="./racing/openmeetings.php">Open meetings</a></div>
+					<div class="menuNode"><a href="./frenzy/Frenzy2010.pdf">Frensham Frenzy</a></div>
+					<div class="menuNode"><a href="./racing/racecourses.php">Race Courses</a></div>
+					<div class="menuNode"><a href="./racing/racesystem.php">Starting system instructions</a></div>
+					<div class="menuNode"><a href="./racing/fittingouttips.php">Fitting out tips</a></div> </div>
+				<div class="button" id="classes"><span class="buttonlabel" id="classesButton"> <img alt="Open" height="18" width="18" />Classes </span> </div>
+				<div class="menu" id="classesMenu">
+					<div class="menuNode"><a href="./classes/boatlist.php">Boats Sailed</a></div>
+					<div class="menuNode"><a href="./classes/24.php">2.4mR</a></div>
+					<div class="menuNode"><a href="./classes/cadet/cadet.php">Cadet</a></div>
+					<div class="menuNode"><a href="./classes/enterprise.php">Enterprise</a></div>
+					<div class="menuNode"><a href="./classes/gp14.php">GP14</a></div>
+					<div class="menuNode"><a href="./classes/lark.php">Lark</a></div>
+					<div class="menuNode"><a href="./classes/laser.php">Laser</a></div>
+					<div class="menuNode"><a href="./classes/modelyachts.php">Model Yachts</a></div>
+					<div class="menuNode"><a href="./classes/rs200">RS200</a></div>
+					<div class="menuNode"><a href="./classes/solo.php">Solo</a></div>
+					<div class="menuNode"><a href="./classes/handicap.php">Handicap</a></div>
+					<div class="menuNode"><a href="./classes/access.php">Access</a></div> </div>
+				<div class="buttonlabel" id="dutyman" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./racing/dutyman.php"><img alt="Duty List" height="18" width="18" />Duty List</a> </div>
+				<div class="button" id="training"><span class="buttonlabel" id="trainingButton"> <img alt="Open" height="18" width="18" />Training </span> </div>
+				<div class="menu" id="trainingMenu">
+					<div class="menuNode"><a href="./training/intro.php">Introduction</a></div>
+					<div class="menuNode"><a href="./training/schedule.php">Course schedule</a></div>
+					<div class="menuNode"><a href="./training/information.php">Student information</a></div>
+					<div class="menuNode"><a href="./training/booking.php">How to book</a></div>
+					<div class="menuNode"><a href="./training/tasters.php">Taster sessions</a></div>
+					<div class="menuNode"><a href="./training/adult.php">Adult courses</a></div>
+					<div class="menuNode"><a href="./training/junior.php">Junior courses</a></div>
+					<div class="menuNode"><a href="./training/racing.php">Racing courses</a></div>
+					<div class="menuNode"><a href="./training/instructor.php">Dinghy Instructor courses</a></div>
+					<div class="menuNode"><a href="./training/powerboat.php">Powerboat courses</a></div>
+					<div class="menuNode"><a href="./training/frensham_tips.php">Frensham Sailing Tips</a></div>
+					<div class="menuNode"><a href="./training/laser_tips.php">Laser Sailing Tips</a></div>
+					<div class="menuNode"><a href="./training/wherediditallgowrong.php">Where did it all go wrong?</a></div> </div>
+				<div class="button" id="champion"><span class="buttonlabel" id="championButton"> <img alt="Open" height="18" width="18" />Champion Club/Youth </span> </div>
+				<div class="menu" id="championMenu">
+					<div class="menuNode"><a href="./champion/about.php">Introduction</a></div>
+					<div class="menuNode"><a href="./champion/involved.php">How to get involved</a></div>
+					<div class="menuNode"><a href="./champion/laser47.php">Laser 4.7s</a></div> </div>
+				<div class="button" id="sailability"><span class="buttonlabel" id="sailabilityButton"> <img alt="Open" height="18" width="18" />Sailability </span> </div>
+				<div class="menu" id="sailabilityMenu">
+					<div class="menuNode"><a href="./sailability/index.php">Welcome to Sailability</a></div>
+					<div class="menuNode"><a href="./sailability/about.php">More about Sailability</a></div>
+					<div class="menuNode"><a href="./sailability/newsletters.php">Newsletters</a></div>
+					<div class="menuNode"><a href="./sailability/boats.php">Boats</a></div>
+					<div class="menuNode"><a href="./sailability/sailingall.php">Sailing for All</a></div>
+					<div class="menuNode"><a href="./sailability/key_dates.php">Key Dates 2011</a></div>
+					<div class="menuNode"><a href="./sailability/highlights_2010.php">2010 Highlights</a></div> </div>
+				<div class="buttonlabel" id="models" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./classes/modelyachts.php"><img alt="Model Yachts" height="18" width="18" />Model Yachts</a> </div>
+				<div class="button" id="results"><span class="buttonlabel" id="resultsButton"> <img alt="Open" height="18" width="18" />Results </span> </div>
+				<div class="menu" id="resultsMenu">
+					<div class="menuNode"><a href="./results/handicap/handicap_results.php">Handicap Series</a></div>
+					<div class="menuNode"><a href="./results/cadet/cadet_results.php">Cadet</a></div>
+					<div class="menuNode"><a href="./results/ent_ok/ent_ok_results.php">Enterprise &amp; OK</a></div>
+					<div class="menuNode"><a href="./results/gp14/gp14_results.php">GP14</a></div>
+					<div class="menuNode"><a href="./results/rs200/rs200_results.php">RS200, Lark &amp; Fast Handicap</a></div>
+					<div class="menuNode"><a href="./results/laser/laser_results.php">Laser</a></div>
+					<div class="menuNode"><a href="./results/solo/solo_results.php">Solo</a></div>
+					<div class="menuNode"><a href="./results/24/24_results.php">2.4mR</a></div>
+					<div class="menuNode"><a href="./results/frenzy/frenzy_results.php">Frensham Frenzy</a></div> </div>
+				<div class="button" id="gallery"><span class="buttonlabel" id="galleryButton"> <img alt="Open" height="18" width="18" />Picture gallery </span> </div>
+				<div class="menu" id="galleryMenu">
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=coty09">RYA Club of the Year</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=club">Clubhouse &amp; Grounds</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=good_friday">Good Friday 2003</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=jubilee">Golden Jubilee 2003</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=lark_open_04">Lark Open 2004</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=frenzy_05">Frensham Frenzy 2005</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=frenzy_06">Frensham Frenzy 2006</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=frenzy_07">Frensham Frenzy 2007</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=frenzy_08">Frensham Frenzy 2008</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=lark_youth_nationals">Lark Youth Champs</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=solo_open_05">Solo Open 2005</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=open_day_07">Open day 2007</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=open_day_08">Open day 2008</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=rs200_open_08">RS200 Open 2008</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=solo_open_08">Solo Open 2008</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=solo_open_09">Solo Open 2009</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=solo_open_10">Solo Open 2010</a></div>
+					<div class="menuNode"><a href="./gallery/thumbs.php?gallery=training_10">Training Courses 2010</a></div> </div>
+				<div class="button" id="members"><span class="buttonlabel" id="membersButton"> <img alt="Open" height="18" width="18" />Members area </span> </div>
+				<div class="menu" id="membersMenu">
+					<div class="menuNode"><a href="http://www.sailfrensham.org.uk/members/archives//001%20management/050%20handbooks/1100%20Final%202010%20Handbook%20web%20v1.1.pdf">Member&#39;s Handbook</a></div>
+					<div class="menuNode"><a href="./members/forum">Discussion Forum</a></div>
+					<div class="menuNode"><a href="./members/archives">Club Records and Archive</a></div>
+					<div class="menuNode"><a href="./members/booking/bookings.php?cat=1">Cadet Booking</a></div>
+					<div class="menuNode"><a href="./members/booking/bookings.php?cat=2">Laser Booking</a></div>
+					<div class="menuNode"><a href="./members/dutylist/raceteams.php">Race Teams</a></div>
+					<div class="menuNode"><a href="./members/safetyboats">Safety Boats</a></div>
+					<div class="menuNode"><a href="./members/archives/index.php?dir=/001%20management/080%20minutes">Committee Minutes</a></div>  </div>
+				<div class="buttonlabel" id="boatmart" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./boatmart/boatmart.php"><img alt="Boat sales" height="18" width="18" />Boat Sales</a> </div>
+				<div class="buttonlabel" id="accommodation" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./clubinfo/accommodation.php"><img alt="Accommodation" height="18" width="18" />Accommodation</a> </div>
+				<div class="buttonlabel" id="links" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./links/links.php"><img alt="Links" height="18" width="18" />Useful Links</a> </div>
+				<div class="buttonlabel" id="home" style="margin-top:2px; margin-bottom:2px; padding-bottom:2px"><a href="./index.php"><img alt="Home" height="18" width="18" />Home</a> </div>   </div>
+			<div id="content">
+				<h1>Welcome to Frensham Pond Sailing Club</h1>
+				<div id="frontImage"><img alt="Frensham Pond" class="photo" /></div>
+				<p> Based on a beautiful lake in South West Surrey, the club welcomes new members, both experienced sailors and those wishing to learn. If you would like to find out more, select one of the options from the menu on the left. Frensham Pond is a club for all ages, all abilities and all seasons. <div id="details">
+					<p><strong>Frensham Pond Sailing Club</strong><br /> Pond Lane<br /> Churt<br /> Farnham<br /> Surrey<br /> GU10 2QA <p>Tel: 01252 792859<p> Email:<br /><a href="mailto:info@sailfrensham.org.uk">General enquiries</a><br /><a href="mailto:membership@sailfrensham.org.uk">Membership enquiries</a><br /><a href="mailto:training@sailfrensham.org.uk">Training enquiries</a>  </div>
+				<div id="forthcomingEvents">
+					<h1 style="text-align: center">Forthcoming Events</h1>
+					<ul>
+						<li><a href="racing/openmeetings.php#larkopen">Lark Open Meeting</a> - Sunday 3rd April </ul> </div>
+				<div id="latestNews">
+					<h1 style="text-align:center">Latest News</h1>
+					<hr />
+					<h2>Frensham Pond Lark Open&acirc;&#128;&#147;Sunday 3rd April 2011 (Posted 30th Mar 2011)</h2>
+					<div>
+						<p>The Briefing on Sunday is at 1015. The first race will be at 1105. There will be three races, one before lunch then two back to back after; two to count. Prize giving and free tea will be about 1600.<p>Frensham Pond, often known as the &#39;home of champions&#39; is a great place to get to grips with the relationship of wind and rig, and with lots of mark rounding practice &acirc;&#128;&#147; it will be a great warm up for the season ahead.<p>Any support team will be welcome and we have a great Clubhouse to watch the racing from (free wifi and plenty of sockets for your lap tops), and if you are feeling fit there is a great walk round the &#39;Pond&#39;. <p>Entry fee &Acirc;&pound;10. Hope to see you on Sunday.<p>Further information from Chris Ellis <a href="mailto:alark@btinternet.com">alark@btinternet.com</a> </div>
+					<hr />
+					<h2>The Pond Superprix - Sunday 20th March (Posted 17th Mar 2011)</h2>
+					<div>
+						<p>A quick reminder that the inaugural Pond superprix is being held this weekend (Note that the Race Programme incorrectly states that there is an RS200 open meeting on Sunday.&nbsp; This event has been postponed to November). This is a new and exciting event consisting of 8-10 very short races to both give all the competitors some starting practice and to be a fun way to go racing, if you got a race wrong, no problem, there will be another chance to correct matters.<p>The event will commence with a briefing at 1000 in the clubhouse followed by the first race at approx. 1030. I would say that the briefing is very very important as the racing will be a little different from normal, with a few new rules for premature starters. I plan to have 5 races before lunch and 5 after, a race will consist of a beat and a run to the finish.<p>There will be 3 classes all of which will be competing for the overall title as well as their class title. The classes are as follows:-<p>Fast- Laser, Lark, Phantom, RS 200, Clive Eplett etc<p>Medium- GP14, Solo, Enterprise, 2.4mR etc<p>Not so fast- Access, Cadet, Laser 4.7 etc<p>Each class will race separately, the Fast and medium fleets will sail the same course and the &acirc;&#128;&#156;Not so fast&acirc;&#128;&#157; will have a shorter racecourse so that we can have a speedier turnaround between races. <p>I still need 2 or 3 people to help me run it on the day so if you can help it would be appreciated; I guarantee you will not find it dull&acirc;&#128;&brvbar;&acirc;&#128;&brvbar;.. If you can help please e-mail me <a href="mailto:pieman617@gmail.com">pieman617@gmail.com</a><p>It really will be a fun day and even if you are not going to race it should be quite a spectacle. </div>
+					<hr />
+					<h2>New Members&#39; Tea (Posted 10th Feb 2011)</h2>
+					<div>
+						<p>All new members of Frensham Pond Sailing Club are invited to a meeting on Saturday 5th March at 3.30pm in the clubhouse.&nbsp; The meeting, which will include afternoon tea, should last approximately one hour; although members are free to come and go as they please.<p>Having joined the club it is important to see and hear what the club is about; whether your interest lies in class or handicap racing, recreational sailing, model yachts, disabled sailing, training and coaching, youth sailing or the social activities that take place throughout the year.<p>After a short introduction from the commodore there will be an opportunity to discuss, in an informal atmosphere, any aspect of the club activities, either with a Class Captain, group representative or the Officers of the Club and General Committee Members.<p>So that we can arrange adequate catering it would be helpful if members wishing to attend could confirm attendance by emailing our club Administrator on <a href="mailto:frenshamadmin@googlemail.com">frenshamadmin@googlemail.com</a> </div>
+					<hr />
+					<h2>Frensham Pond Superprix (Posted 8th Feb 2011)</h2>
+					<div>
+						<p>On the 20th March 2011 we will be holding the first ever &quot;Pond Superprix&quot; a series of 8-10 single lap short course sprint races. The aim of the Superprix is to give us all some needed starting practice.<p>The original idea came from David Youll who suggested that we should have a day of starting practice, which I then developed into the Superprix, The reason why we are holding it on this date, which in your sailing program is the RS 200 open meeting, is that the RS 200&#39;s have asked that their open meeting be moved to November. This left us with a hole in the program so the sailing committee decided to try something new.<p>Full details of the Superprix can be found <a href="http://www.sailfrensham.org.uk/racing/superprix.php">here</a> </div>
+					<hr />
+					<h2>Frensham Frenzy 2011 (Posted 4th Feb 2011)</h2>
+					<div>
+						<p>The 2011 Frensham Frenzy will be held on Sunday 13th March.&nbsp; Details can be found <a href="http://www.sailfrensham.org.uk/frenzy/Frenzy2011.pdf">here</a>.&nbsp; Numbers are limited to 50 boats so please pre-register to take part by contacting <a href="mailto:pieman617@googlemail.com">Tim Hemsley</a> </div>
+					<hr />
+					<h2>Older news</h2>
+					<div>Other news items are available in the <a href="news">Frensham Pond Newsletter</a></div> </div> </div> </div>
+		<div id="footer">
+			<div id="footer_logo"><img alt="Frensham Pond Sailing Club" /></div>
+			<div id="footer_text"><img alt="Leading the way" /></div> </div> </body>    </html>

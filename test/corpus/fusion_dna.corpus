@@ -1,0 +1,42 @@
+{
+   "addresses" : [
+      {
+         "country" : "UK",
+         "title" : "Fusion Design and Architecture",
+         "postcode" : "SE1 0HE",
+         "atoms" : [
+            "4 Risborough Street",
+            "London"
+         ],
+         "via": "hvCard"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.fusiondna.co.uk/"
+}
+---DIVIDER---
+<html>
+	<head>
+		<title>FUSION design and architecture : home</title>
+		<link media="all" rel="stylesheet" type="text/css" />
+		<link rel="shortcut icon" />
+		<link rel="icon" />
+		<meta content="Experienced London based interiors and architecture agency specialising in bars, restaurants, hotels, retail and residential design." name="description" />
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+	</head>
+	<body class="home">
+		<div id="holder">
+			<div class="container">
+				<div class="main"><img alt="We are the market leaders with over 10 years experience in the following fields." height="18" style="margin-bottom:1em" width="634" /><div class="bar"> </div>
+					<ul class="grid">
+						<li class=""><span>Client logos v2 - Mathew edit</span> <img alt="Client logos v2 - Mathew edit" height="109" width="238" />  </ul>
+					<div class="bar"> </div> </div> </div>
+			<div id="header">
+				<div class="container">
+					<div id="logo"><a href="/"> <img /> </a> </div>
+					<ul id="nav">
+						<li class="active"><a href="/">home</a><li><a href="/bars/bars1">bars</a> <li><a href="/restaurants/restaurants-1">restaurants</a> <li><a href="/hotels">hotels</a> <li><a href="/retail">retail</a> <li><a href="/residential">residential</a> <li><a href="/process">process</a> <li><a href="/contact">contact</a> <li><a href="/home-boxes">home-boxes</a>  </ul> </div> </div>
+			<div class="vcard" id="footer">
+				<div class="fn org">Fusion Design and Architecture</div>
+				<ul>
+					<li class="adr"><span class="street-address">4 Risborough Street</span> | <span class="locality">London</span> | <span class="postal-code">SE1 0HE</span> | <li class="tel"><span class="highlight">Fax</span><span class="type">Fax</span> <span class="value">020 7928 9994</span> | <li class="tel"><span class="highlight">Telephone</span><span class="type">Work</span> <span class="value">020 7928 9982</span> | <li><span class="highlight">Email</span> <a class="email" href="mailto:mail@fusiondna.co.uk">mail@fusiondna.co.uk</a> </ul> </div> </div> </body> </html>

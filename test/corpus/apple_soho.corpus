@@ -1,0 +1,591 @@
+{
+   "addresses" : [
+      {
+         "country" : "US",
+         "title" : "72 Greene Street",
+         "postcode" : "NY 10012",
+         "atoms" : ["72 Greene Street", "New York"],
+         "via": "hvCard"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.google.co.uk/search?q=Frensham+pond+sailing+club"
+}
+---DIVIDER---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
+<head>
+	<title>Apple Retail Store - SoHo</title>
+	<meta name="omni_page" content="Retail Store - SoHo : R032">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.apple.com" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.apple.com" r (n 0 s 0 v 0 l 0))'>
+	<meta http-equiv="Expires" content="Fri, 26 Mar 1999 23:59:59 GMT">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta name="Author" content="Apple, Inc.">
+
+	<meta name="Keywords" content="Apple">
+	<meta name="Category" content="company">
+	<meta name="Description" content="Apple Store SoHo store hours, contact information, and weekly calendar of events.">
+	<link rel="alternate" type="application/rss+xml" title="RSS">
+	<meta name="viewport" content="width=1024">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9">
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<link id="globalheader-stylesheet" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+	<link rel="stylesheet" type="text/css" charset="utf-8" media="print">
+	<link rel="stylesheet" type="text/css" charset="utf-8">
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+	<script>/* stripped in corpus */</script>
+
+	<script>/* stripped in corpus */</script>
+		Event.onDOMReady(function() {
+			AC.OverlayPanel.overlay.setDelegate({
+				willShow: function(overlayPanel, outgoing, incoming) {
+					if(incoming && ($(incoming.content).hasClassName("galleryoverlay") || $(incoming.content).hasClassName("pastevents-overlay"))) {
+						overlayPanel.setOverlayShadowImageSrc("http://images.apple.com/retail/images/black_overlay_bgnd.png");
+					}
+					return incoming;
+				}
+			});
+
+			var content = document.getElementsByClassName('store-gallery-link-content');
+			var storeGalleryViewer = new AC.ViewMaster.Viewer(content, "featureView", 'store-gallery-link', {silentTriggers: true});
+
+			new AC.RetailCalendar('R032', $('storecalendar'));
+			new StoreHours.Application('/retail/holiday_hours/feeds/R032.json', {
+				onSuccess: function(periods) {
+					$('holiday-hours').parentNode.replaceChild(StoreHours.render(periods), $('holiday-hours'));
+				}
+			});
+		});
+	
+
+</head>
+
+<body id="store" class="retail store">
+	<script>/* stripped in corpus */</script>
+	var searchSection = 'global';
+	var searchCountry = 'us';
+
+<script>/* stripped in corpus */</script>
+<nav id="globalheader">
+	<!--googleoff: all-->
+	<ul id="globalnav" role="navigation">
+		<li id="gn-apple"><a href="/"><span>Apple</span></a></li>
+		<li id="gn-store"><a href="http://store.apple.com/"><span>Store</span></a></li>
+
+		<li id="gn-mac"><a href="/mac/"><span>Mac</span></a></li>
+		<li id="gn-ipod"><a href="/ipod/"><span>iPod</span></a></li>
+		<li id="gn-iphone"><a href="/iphone/"><span>iPhone</span></a></li>
+		<li id="gn-ipad"><a href="/ipad/"><span>iPad</span></a></li>
+		<li id="gn-itunes"><a href="/itunes/"><span>iTunes</span></a></li>
+		<li id="gn-support" class="gn-last"><a href="/support/"><span>Support</span></a></li>
+
+	</ul>
+	<!--googleon: all-->
+	<div id="globalsearch">
+		<form action="/search/" method="post" class="search" id="g-search"><div class="sp-label">
+			<label for="sp-searchtext">Search</label>
+			<input type="text" name="q" id="sp-searchtext" accesskey="s" />
+		</div></form>
+		<div id="sp-magnify"><div class="magnify-searchmode"></div><div class="magnify"></div></div>
+
+		<div id="sp-results"></div>
+	</div>
+</nav>
+<script>/* stripped in corpus */</script>
+	AC.GlobalNav.Instance = new AC.GlobalNav();
+
+
+	<div id="top">
+<!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. -->
+<script>/* stripped in corpus */</script>
+/* RSID: */
+var s_account="appleglobal,appleretail"
+
+
+<script>/* stripped in corpus */</script>
+
+<script>/* stripped in corpus */</script>
+s.pageName=AC.Tracking.pageName()+" (US)";
+s.server=""
+s.channel="www.us.retailstore"
+s.pageType=""
+s.prop1="www.us.retailstore.stores"
+s.prop2=""
+s.prop3=""
+s.prop4=document.URL;
+s.prop5=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+<!-- End SiteCatalyst code version: H.8. -->
+</div>
+
+	<div id="container">
+		<div id="main">
+			<h1><img width="622" height="28" alt="Apple Store, SoHo"></h1>
+			<a href="http://store.apple.com" class="shoponline"><img width="102" height="20" alt="Shop Online"></a>
+			<div id="content">
+				<div class="sgrid">
+
+					<div class="column first span_6 overflowright_1" id="store-graphic">
+						<div id="galleryoverlay" class="galleryoverlay">
+	<div id="featureView"></div>
+</div>
+
+						<img width="411" height="320" alt="Apple Store, SoHo">
+					</div>
+					<div class="column span_4 prepend_1 overflowright_1 vcard" id="store-info">
+						<h3>Store Information</h3>
+
+						<div class="hcard"><strong>Address:</strong>
+							<p>
+								<span class="adr">
+									<span class="street-address">72 Greene Street</span>
+									<span class="locality">New York</span>, <span class="region">NY</span> <span class="postal-code">10012</span>
+
+								</span>
+								<span class="tel">(212) 226-3126</span>
+							</p>
+						</div> <!-- /hcard -->
+
+						<a href="/retail/soho/map/" class="more">Driving Directions &amp; Map</a>
+						<dl id="store-hours">
+
+							<dt>Store hours:</dt>
+							<dd>Mon - Sat:</dd><dd class="hours">9:00 a.m. - 9:00 p.m.</dd>
+<dd>Sun:</dd><dd class="hours">9:00 a.m. - 7:00 p.m.</dd>
+<br>
+						</dl>
+
+						<div class="tips">
+							<div class="tips_shopping">
+
+								<p>
+									<a href="#holiday-hours-overlay" class="OverlayPanel"><img alt="See Extended Holiday Hours"></a>
+								</p>
+								<div id="holiday-hours-overlay" class="overlaydescription">
+									<h3>
+										Apple Store, SoHo Holiday Hours
+									</h3>
+									<div class="grid3col" id="holiday-hours"></div>
+								</div>
+
+							</div>
+						</div><!--/textbox-->
+					</div>
+					<div class="reso_endcap"></div>
+					<div id="make-reservation" class="column last span_4 prepend_1">
+						<h3>Make Reservation</h3>
+						<p><a class="more" href="http://concierge.apple.com/reservations/R032">View my reservations</a></p>
+						<div class="column first">
+
+							<div class="textbox">
+								<img width="54" height="43" alt="One to One"><br>
+								<h5>One to One</h5>
+								<a href="http://onetoone.apple.com/" class="more">Reserve</a><br>
+								<a href="/retail/overlay_onetoone.html#onetoone" class="more OverlayPanel">Learn more</a>
+								<div class="overlaydescription">
+								</div> <!-- /overlaydescription -->
+
+							</div> <!-- /textbox -->
+						</div>
+						<div class="column">
+							<div class="textbox">
+								<img width="54" height="43" alt="Workshops"><br>
+								<h5>Workshops</h5>
+								<a href="http://concierge.apple.com/workshops/R032" class="more">Reserve</a><br>
+
+								<a href="/retail/overlay_workshops.html#workshops" class="more OverlayPanel">Learn more</a>
+							</div> <!-- /textbox -->
+						</div>
+						<div class="column last">
+							<div class="textbox">
+								<img width="54" height="43" alt="Genius Bar"><br>
+								<h5>Genius Bar</h5>
+
+								<a href="http://concierge.apple.com/geniusbar/R032" class="more">Reserve</a><br>
+								<a href="/retail/overlay_genius_bar.html#geniusBarOverlay" class="more OverlayPanel">Learn more</a>
+							</div> <!-- /textbox -->
+						</div>
+						<div class="column first">
+							<div class="textbox">
+								<img width="54" height="43" alt="Youth Programs"><br>
+
+								<h5>Youth Programs</h5>
+								<a href="/retail/youth/" class="more">Learn more</a>
+							</div> <!-- /textbox -->
+						</div>
+						<div class="column">
+							<div class="textbox">
+								<img width="54" height="43" alt="Business"><br>
+
+								<h5>Business</h5>
+                                <a href="http://concierge.apple.com/biz/R032" class="more">Contact Me</a><br>
+								<a href="/retail/jointventure" class="more">Learn more</a>
+							</div> <!-- /textbox -->
+						</div> <!-- /column -->
+					</div> <!-- /make-reservation -->
+
+					</div> <!-- /sgrid -->
+<div class="sgrid" id="feature-instore">
+	<h2>Featured In-Store</h2>
+		<div class="column first span_4">
+					<img width="254" height="156" alt="">
+					<h4>iPhone 4S</h4>
+					<p>Featuring a dual-core A5 chip, all-new 8MP camera, iOS 5, iCloud, and Siri. iPhone 4S is an amazing way to ring in their holiday.<br> <a href="http://www.apple.com/retail/iphone/" class="more">Learn More</a></p>
+
+		</div>
+	<div class="column last span_10">
+		<div class="column first span_5">
+					<img width="140" height="100" alt="" class="left">
+					<h4>iPod touch</h4>
+					<p>Now starting at $199 and available in black or white. Get yours at the Apple Retail Store, and we’ll set it up just the way you want.<br></p>
+		</div>
+		<div class="column last span_5">
+
+					<img width="140" height="100" alt="" class="left">
+					<h4>Create gifts with<br>your photos.</h4>
+					<p>Make gifts and keepsakes using<br>iPhoto. Create photo books,<br>calendars, cards, and more. We’ll<br>show you how in this workshop.<br></p>
+		</div>
+		<div class="column first span_5 clear">
+					<img width="140" height="100" alt="" class="left">
+
+					<h4>iPad 2</h4>
+					<p>It’s an entire gift list in one gift.<br>With over 140,000 apps,<br>FaceTime, HD video recording,<br>iBooks, and more, iPad 2 is<br>everything they could want.<br></p>
+		</div>
+		<div class="column last span_5">
+					<img width="140" height="100" alt="" class="left">
+					<h4>MacBook Air</h4>
+
+					<p>Give the new, faster<br>MacBook Air. It’s the ultimate everyday notebook they can take with them everywhere.<br></p>
+		</div>
+	</div>
+</div> <!-- /feature-instore -->
+				<div class="sgrid">
+<div id="storecalendar" class="column first span_10 seeall loading">
+	<a id="storecalendar-top"></a>
+	<h2 class="column span_5">Schedule of Workshops and Events</h2>
+
+	<div id="storecalendar-nav" class="column last span_5">
+		<a id="storecalendar-calendarlink" href="#">Month view</a>
+		<span id="storecalendar-dateviewnav"><a class="navigation prev" href="#prev">Prev</a><span id="storecalendar-dateview"><span id="storecalendar-startdate"><span class="month"></span> <span class="date"></span></span> - <span id="storecalendar-enddate"><span class="month"></span> <span class="date"></span>, <span class="year"></span></span></span><a class="navigation next" href="#next">Next</a></span>
+		<div id="storecalendar-calendar">
+			<div id="storecalendar-calendarwrapper" style="display: none">
+
+				<a id="storecalendar-monthviewclose" href="#close">Close</a>
+				<div id="storecalendar-monthwrapper">
+					<table id="storecalendar-monthview">
+						<caption>
+							<a class="storecalendar-monthnav prev_month" href="#prev"><img width="13" height="12" alt="Previous month"></a> <span id="storecalendar-month"></span>&nbsp;<span id="storecalendar-year"></span> <a class="storecalendar-monthnav next_month" href="#next"><img width="13" height="12" alt="Next month"></a>
+						</caption>
+						<thead>
+
+							<tr>
+								<th></th>
+								<th></th>
+								<th></th>
+								<th></th>
+								<th></th>
+								<th></th>
+								<th></th>
+							</tr>
+
+						</thead>
+						<tbody>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+							<tr>
+								<td><div class="weekstart date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+								<td><div class="date"></div></td>
+
+								<td><div class="weekend date"></div></td>
+							</tr>
+						</tbody>
+					</table>
+					<a id="storecalendar-gototoday" href="#today">Today<span></span></a> <span class="legend"><img width="8" height="9" alt="Star icon"> Special Event</span>
+				</div> <!-- /storecalendar-monthwrapper -->
+
+				<div id="storecalendar-monthcapbottom"></div>
+			</div>
+		</div>
+	</div> <!-- /storecalendar-nav -->
+	<div id="storecalendar-topbar" class="column first span_10">
+		<ul id="storecalendar-categories">
+			<li id="seeall"><a href="#seeall">See All</a></li>
+			<li id="gettingstarted"><a href="#gettingstarted">Getting Started</a></li>
+
+			<li id="photos"><a href="#photos">Photos</a></li>
+			<li id="video"><a href="#video">Video</a></li>
+			<li id="music"><a href="#music">Music</a></li>
+			<li id="more"><a href="#more">More</a>
+				<ul id="moredropdown" style="display:none">
+					<div class="more_captop"></div>
+					<li class="first"><a href="#web">Web</a></li>
+
+					<li><a href="#productivity">Productivity</a></li>
+					<li><a href="#design">Design</a></li>
+					<li class="last"><a href="#business">Business</a></li>
+					<div class="more_capbottom"></div>
+				</ul>
+			</li>
+		</ul>
+
+	</div> <!-- /storecalendar-topbar -->
+
+	<div id="storecalendar-weekview" class="column first span_10">
+		<div id="loading">loading...</div>
+		<h3 class="startweek"><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3>
+		<ul><li><span class="time"><abbr><span class="dtstart"></span></abbr> - <abbr><span class="dtend"></span></abbr></span><h5 class="summary"><span></span> </h5> <a class="conciergelink">Reserve</a><h6><span></span> <a class="onetoonelink">Learn More</a></h6><p class="description"></p></li></ul>
+
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+		<h3><span class="day"></span>, <span class="month"></span> <span class="date"></span>, <span class="year"></span></h3><a href="#storecalendar-top" class="backtotop">Back to top</a>
+
+		<ul></ul>
+		<div class="noworkshops" style="display: none">No workshops scheduled for these dates yet.</div>
+	</div> <!-- /storecalendar-weekview -->
+
+				<ul id="alt-calendars">
+					<li id="rss"><a href="http://www.apple.com/main/rss/retail/SoHo.rss">Subscribe to RSS</a></li>
+					<li id="widget"><a href="http://www.apple.com/downloads/dashboard/shopping/appleretailstoreeventwidget.html">Download event widget</a></li>
+
+					<li id="print"><a href="#">Print schedule</a></li>
+				</ul>
+			</div> <!-- /storecalendar -->
+						<div id="event-sidebar" class="column last span_4">
+						<div class="box">
+<h3>Past Events</h3>
+
+
+
+<script>/* stripped in corpus */</script>
+	Event.onDOMReady(function() {
+		AC.OverlayPanel.overlay.setDelegate({
+			willShow: function(overlayPanel, outgoing, incoming) {
+				if(incoming && ($(incoming.content).hasClassName("galleryoverlay") || $(incoming.content).hasClassName("pastevents-overlay"))) {
+					overlayPanel.setOverlayShadowImageSrc("http://images.apple.com/retail/images/black_overlay_bgnd.png");
+				}
+				return incoming;
+			}
+		});
+		var pastEventContent	= document.getElementsByClassName('pastevent-gallery-link-content');
+		var pastEventGallery	= new AC.ViewMaster.Viewer(pastEventContent, "pasteventsView", 'pastevent-gallery-link', {silentTriggers: true});
+	});
+	Event.onDOMReady(function() {
+
+        var streamLauncher = document.createElement('div');
+        streamLauncher.id = "streamLauncher";
+        document.body.appendChild(streamLauncher);
+        streamLauncher = null;
+
+        Event.observe(document, 'click', function(evt) {
+
+            var target = evt.element();
+
+            // traverse until we find an element with the streamlink classname, there are parents to test, or we already tested the anchor element
+            while (target.hasClassName && !target.hasClassName("streamLink")) {
+                if (target.parentNode && (target.tagName.toLowerCase() !== "a" && target.tagName.toLowerCase() !== "body" && target.tagName.toLowerCase() !== "html")) {
+                    target = target.parentNode;
+                } else {
+                    return;
+                }
+            }
+
+            evt.preventDefault();
+
+            var movieHref = target.href;
+
+            var qt = AC.Quicktime.packageMovie('movie', 'http://movies.apple.com/trailers/images/qtbutton.mov', {
+                href: movieHref,
+                autohref: true,
+                target: "quicktimeplayer",
+                width: 1,
+                height: 1,
+                autoplay: false,
+                controller: false,
+                cache: true
+            });
+
+            var launchPad = $("streamLauncher");
+            if (launchPad.firstChild) {
+                launchPad.removeChild(launchPad.firstChild);
+            }
+
+            launchPad.appendChild(qt);
+        });
+	});
+
+<div class="textboxqt">
+	<h4>Live from SoHo: Regina Spektor</h4>
+	<p>Regina Spektor is an artist with an acute sense of detail for both words and music. On July 24th, she stopped by the Apple Store to perform songs from her hit album Far, which combines evocative, intricately structured melodies with intelligent, refreshingly honest odes to life.<br>
+	<a href="http://movies.apple.com/media/us/retail/2009/performance/apple-retail-regina_spektor-us-20091103_r848-9cie.mov" class="more streamLink" title="Live from SoHo: Regina Spektor">Watch Video</a></p>
+</div>
+<div class="textboxqt">
+	<h4>Meet the Director: Baz Luhrmann, Australia</h4>
+
+	<p>On November 25, acclaimed filmmaker Baz Luhrmann (Romeo + Juliet, Moulin Rouge!) discussed the making of his latest film, Australia, at the Apple Retail Store, SoHo.<br>
+	<a href="http://stream.qtv.apple.com/qtv/marcomm/bazluhrman/apple_retail_bazluhrman_20081216_ref.mov" class="more streamLink" title="Meet the Director: Baz Luhrmann, Australia">Watch Video</a></p>
+</div>
+
+						</div> <!-- /box -->
+						<div class="capbottom"></div>
+<div class="box" id="specialneeds">
+	<h3>Special Needs</h3>
+
+	<img width="60" height="60" alt="Universal Access logo" class="thumbnail">
+	<p>Apple is committed to providing assistance to its customers with special needs. If you require a sign-language interpreter or other special assistance to attend any of our events, please let us know with reasonable advance notice. Assisted listening devices are available upon request in our Apple Store SoHo theater.</p>
+</div> <!-- /box -->
+<div class="capbottom"></div>
+
+<div class="box" id="workatapple">
+	<h3>Work at Apple</h3>
+	<img width="52" height="51" alt="Woman&#39;s face" class="thumbnail">
+	<p>Take a moment to browse the <a href="/jobs/us/retail.html">job opportunities</a> in your local Apple Store.</p>
+
+</div> <!-- /box -->
+<div class="capbottom"></div>
+
+<div class="box" id="specialoffers">
+	<h3>Special Offers</h3>
+	<h4>Printer Promotion.</h4><img width="67" height="49" alt="Printer" class="thumbnail">
+	<p>Purchase an Apple computer and a qualifying printer through the U.S. Apple Online Store or Apple's U.S. retail stores and receive a rebate of up to $100 (subject to terms and conditions). Claims must be submitted within ninety (90) days of your purchase. <br><a href="/promo/" class="more">Learn more</a></p>
+</div> <!-- /box -->
+
+<div class="capbottom"></div>
+
+					</div> <!-- /event-sidebar -->
+				</div> <!-- /sgrid -->
+			</div> <!-- /content -->
+		</div> <!-- /main -->
+	</div> <!-- /container -->
+
+	<div id="globalfooter" class="gf-980">
+		<div id="breadcrumbs">
+			<a href="/" class="home">Home</a><span>&gt;</span><a href="/retail/">Apple Retail Store</a><span>&gt;</span>SoHo
+		</div><!--/breadcrumbs-->
+		<p class="gf-buy">Shop the <a href="/store/">Apple Online Store</a> (1-800-MY-APPLE), visit an <a href="/retail/">Apple Retail Store</a>, or find a <a href="/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped">
+	<li><a href="/about/" class="first">Apple Info</a></li>
+	<li><a href="/sitemap/">Site Map</a></li>
+	<li><a href="/hotnews/">Hot News</a></li>
+	<li><a href="/rss/">RSS Feeds</a></li>
+	<li><a href="/contact/" class="contact_us">Contact Us</a></li>
+
+	<li><a href="/choose-your-country/" class="choose"><img alt="Choose your country or region" width="22" height="22" /></a></li>
+</ul>
+
+<div class="gf-sosumi">
+	<p>Copyright © 2011 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+		<li><a href="/legal/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="/privacy/">Privacy Policy</a></li>
+	</ul>
+
+</div>
+
+	</div><!--/globalfooter-->
+</body>
+</html>

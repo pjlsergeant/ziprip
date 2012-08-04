@@ -1,0 +1,152 @@
+{
+   "addresses" : [
+      {
+         "country" : "UK",
+         "title" : "22 Eaton Terrace",
+         "postcode" : "SW1W 8EZ",
+         "atoms" : [
+            "22 Eaton Terrace",
+            "London"
+         ],
+         "via": "Generic"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.beerintheevening.com/pubs/s/63/631/Antelope/Belgravia"
+}
+---DIVIDER---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<title>Antelope, Belgravia, London, SW1W 8EZ - pub details # beerintheevening.com</title>
+		<link rel="stylesheet" type="text/css" />
+		<meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type" />
+		<meta content="92998058256" property="fb:page_id" />
+		<meta content="beerintheevening.com" property="og:site_name" />
+		<meta content="bar" property="og:type" />
+		<meta content="Antelope" property="og:title" />
+		<meta content="http://www.beerintheevening.com/pubs/s/63/631/Antelope/Belgravia" property="og:url" />
+		<meta content="Antelope, Belgravia, London, SW1W 8EZ -  pub details - beer in the evening - search for pubs, add your own comments and suggestions, generate pub crawls" name="description" />
+		<meta content="Antelope, Belgravia, London, SW1W 8EZ -  pub details, pub search results, bar, beer, pub, alcohol, pubs, bite" name="keywords" /> </head>
+	<body bgcolor="#FFFFFF" style="margin-left:0; padding-left:0; margin-top:0; margin-right:0; margin-bottom:0; padding-bottom:0;">
+		<div id="wrapper">
+			<div id="header"><a href="/?tl"><img align="left" alt="BITE home" border="0" height="62" hspace="0" vspace="0" width="62" /></a><p class="site-desc"><a class="noshow" href="#startofcontent">skip nav</a><div class="qsearch">
+					<form action="/pubs/results.shtml" class="topsearch" method="GET"> search by: name <input class="smooth-input-s" name="n" size="9" type="text" /><input class="smooth-submit-s" type="submit" value="go" /> </form>
+					<form action="/pubs/results.shtml" class="topsearch" method="GET"> location <input class="smooth-input-s" name="l" size="9" type="text" /><input class="smooth-submit-s" type="submit" value="go" /> </form>
+					<form action="/pubs/ftsearch.shtml" class="topsearch" method="GET"> anything <input class="smooth-input-s" name="search" size="9" type="text" /><input class="smooth-submit-s" type="submit" value="go" /> </form> </div> </div>
+			<div id="menu">
+				<div class="menutable" id="home"><a class="menulink" href="/">home</a> | <a class="menulink" href="http://blog.beerintheevening.com/">blog</a></div>
+				<div class="divider">pubs</div>
+				<div class="menutable" id="quick-search"><a class="menulink" href="/search/index.shtml">quick search</a> </div>
+				<div class="menutable" id="advanced-pub-search"><a class="menulink" href="/pubs/search.shtml">advanced pub search</a> </div>
+				<div class="menutable" id="full-text-search"><a class="menulink" href="/pubs/ftsearch.shtml">full text search</a> </div>
+				<div class="menutable" id="browse-by-county"><a class="menulink" href="/pubs/browse.shtml">browse by county</a> </div>
+				<div class="menutable" id="top-"><a class="menulink" href="/pubs/top.shtml">top 40</a> </div>
+				<div class="menutable" id="top--by-month"><a class="menulink" href="/pubs/mostviewed/">top 20 by month</a> </div>
+				<div class="menutable" id="top--by-county"><a class="menulink" href="/pubs/top/">top 10 by county</a> </div>
+				<div class="menutable" id="chain-pubs"><a class="menulink" href="/chains/">chain pubs</a> </div>
+				<div class="menutable" id="pub-guides-by-area"><a class="menulink" href="/pubs/guide/">pub guides by area</a> </div>
+				<div class="divider">pub crawls </div>
+				<div class="menutable" id="crawl-generator"><a class="menulink" href="/crawls/gen.shtml">crawl generator</a> </div>
+				<div class="menutable" id="ideas-for-crawls"><a class="menulink" href="/crawls/ideas.shtml">ideas for crawls</a> </div>
+				<div class="menutable" id="suggest-a-crawl"><a class="menulink" href="/crawls/suggest.shtml">suggest a crawl</a> </div>
+				<div class="divider">beer </div>
+				<div class="menutable" id="Cask-Marque"><a class="menulink" href="/caskmarque.shtml">Cask Marque</a> </div>
+				<div class="menutable" id="beer-festivals"><a class="menulink" href="/beer/festivals.shtml">beer festivals</a> </div>
+				<div class="divider">users </div>
+				<div class="alpha">you are not logged in</div>
+				<div class="menutable" id="login"><a class="menulink" href="/login.shtml">login</a> </div>
+				<div class="menutable" id="register"><a class="menulink" href="/register.shtml">register</a> </div>
+				<div class="divider">licensees </div>
+				<div class="menutable" id="advertise-your-pub"><a class="menulink" href="/services/">advertise your pub</a> </div>
+				<div class="menutable" id="services"><a class="menulink" href="/services/services.shtml">services</a> </div>
+				<div class="menutable" id="apply-now"><a class="menulink" href="/services/index.shtml#registration">apply now</a> </div>
+				<div class="menutable" id="terms"><a class="menulink" href="/services/terms/">terms</a> </div>
+				<div class="menutable" id="client-login"><a class="menulink" href="/clients">client login</a> </div>
+				<div class="divider">general </div>
+				<div class="menutable" id="faq"><a class="menulink" href="/faq.shtml">faq</a> </div>
+				<div class="menutable" id="about"><a class="menulink" href="/about.shtml">about</a> </div>
+				<div class="menutable" id="links"><a class="menulink" href="/links.shtml">links</a> </div>
+				<div class="menutable" id="contact-us"><a class="menulink" href="/contact.shtml">contact us</a> </div>
+				<div class="menutable" id="suggest-pub"><a class="menulink" href="/pubs/add">suggest pub</a> </div>
+				<div class="divider">features </div>
+				<div class="menutable" id="BITE-book"><a class="menulink" href="/book/">BITE book</a> </div>
+				<div class="menutable" id="jobs"><a class="menulink" href="/jobs.shtml">pub jobs</a> </div>
+				<br />
+				<center> </center>
+				<div class="divider">during the last 30 days:</div>
+				<div class="thismonth">
+					<ul>
+						<li>70 pubs added to the site<li>photos added for 147 more pubs<li>3299 pub comments added by users<li>862 new registered users </ul>
+				</div>
+				<br />
+				<center> </center> </div>
+			<div id="main-content"><a class="noshow" name="startofcontent">&nbsp;</a><p style="clear:both;">&nbsp;<div align="center"> </div>
+				<p>&nbsp;<h1>The Antelope, Belgravia - pub details</h1>
+				<div align="center" class="contnt"><a name="#picture"> <img alt="Antelope" border="3" height="230" width="340" /></a> </div>
+				<div class="info">
+					<div id="tfldirections"> Get directions using the<br /><a href="http://journeyplanner.tfl.gov.uk/">TfL Journey Planner</a>: <br />
+						<form action="/cgi-bin/tfl.cgi" method="POST"> Enter the postcode you&#39;re travelling from:<br /><input name="to" type="hidden" value="SW1W 8EZ" /> <input class="smooth-input-s" name="from" size="9" type="text" /> <input class="smooth-submit-s" type="submit" value="go" /> </form>
+					</div>
+					<p><b>Address:</b> 22, Eaton Terrace, London, SW1W 8EZ <a href="/cgi-bin/map_link.cgi?id=631&amp;type=8">[map]</a> <a href="/cgi-bin/map_link.cgi?id=631&amp;type=10">[gmap]</a><p><b>Tel:</b> 0871 951 1000 (ref 631)<p><img align="left" alt="Nearest tube stations" height="20" width="23" /> <a href="/pubs/results.shtml/tu/249">Sloane Square</a> (<a href="/cgi-bin/tfl.cgi?from=Sloane Square&amp;to=SW1W 8EZ&amp;from_type=station">0.1 miles</a>), <a href="/pubs/results.shtml/tu/294">Victoria</a> (<a href="/cgi-bin/tfl.cgi?from=Victoria&amp;to=SW1W 8EZ&amp;from_type=station">0.5 miles</a>), <a href="/pubs/results.shtml/tu/163">Knightsbridge</a> (<a href="/cgi-bin/tfl.cgi?from=Knightsbridge&amp;to=SW1W 8EZ&amp;from_type=station">0.6 miles</a>)<p><img align="left" alt="Nearest train stations" height="20" width="23" /> <a href="/pubs/results.shtml/tr/261">London Victoria</a> (<a href="/cgi-bin/tfl.cgi?from=London Victoria&amp;to=SW1W 8EZ&amp;from_type=station">0.5 miles</a>), <a href="/pubs/results.shtml/tr/44">Battersea Park</a> (<a href="/cgi-bin/tfl.cgi?from=Battersea Park&amp;to=SW1W 8EZ&amp;from_type=station">1.3 miles</a>), <a href="/pubs/results.shtml/tr/198">Queenstown Road Battersea</a> (<a href="/cgi-bin/tfl.cgi?from=Queenstown Road Battersea&amp;to=SW1W 8EZ&amp;from_type=station">1.4 miles</a>)<p><b>Brewery:</b> <a href="/breweries/pubs.shtml?brewery=2">Fullers</a><br />
+					<p>NB: Information may be incomplete or out of date as this pub is not currently <a href="/services/">registered</a>.<p>Are you the Licensee? <strong><a href="/services/register.shtml?pub_id=631">Click here</a></strong>. </div>
+				<div class="info">&gt; Current user rating: <b>6.5/10</b> (rated by 51 users)</div>
+				<div class="info">&gt; Hotels nearby: <a href="/cgi-bin/map_link.cgi?id=631&amp;type=12" target="_blank">Search</a></div>
+				<div class="info">&gt; <span class="st_twitter_hcount" displaytext="Tweet"></span><span class="st_facebook_hcount" displaytext="Share"></span><span class="st_email_hcount" displaytext="Email"></span><span class="st_sharethis_hcount" displaytext="Share"></span></div>
+				<div class="info"><span class="more">&gt; Local guides: <a href="/pubs/guide/london.shtml">London pub guide</a>, <a href="/pubs/guide/central_london.shtml">Central London pub guide</a></span><br />
+				</div><a id="rate" name="rate"></a><div class="info"><span class="more">&gt; <a href="/login.shtml">Log in</a> to rate this pub or upload a picture of it.</span><br /><span class="more">&gt; <a href="#addcomment">Post a comment</a></span> <span class="more">&gt; <a href="/pubs/mail_link.shtml?631">Mail a friend</a></span> </div>
+				<h4>other pubs nearby:</h4>
+				<p><a href="/pubs/s/51/511/Royal_Court_Tavern/Sloane_Square">Royal Court Tavern</a>, <a href="/pubs/results.shtml/el/Sloane%20Square%3BLondon/">Sloane Square</a> (0.1 miles), <a href="/pubs/s/38/3803/Duke_Of_Wellington/Belgravia">Duke Of Wellington</a>, <a href="/pubs/results.shtml/el/Belgravia%3BLondon/">Belgravia</a> (0.1 miles), <a href="/pubs/show.shtml/60/Belgravia/Belgravia">Belgravia</a>, <a href="/pubs/results.shtml/el/Belgravia%3BLondon/">Belgravia</a> (0.2 miles), <a href="/pubs/s/28/28437/Thomas_Cubitt/Belgravia">Thomas Cubitt</a>, <a href="/pubs/results.shtml/el/Belgravia%3BLondon/">Belgravia</a> (0.2 miles), <a href="/pubs/s/24/2418/Fox_and_Hounds/Belgravia">Fox and Hounds</a>, <a href="/pubs/results.shtml/el/Belgravia%3BLondon/">Belgravia</a> (0.2 miles) - <a href="/pubs/results.shtml/near/631/">see more nearby pubs</a><p style="clear:both;">&nbsp;<div align="center"> </div>
+				<p align="center">
+					<div align="center">
+						<iframe allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:450px; height:80px;">
+						</iframe>
+					</div> </div>
+			<h4><a class="black" id="comments" name="comments">user reviews of the Antelope, Belgravia</a></h4>
+			<p>please note - reviews on this site are purely the opinion of site visitors, so don&#39;t take them too seriously.<p>5 most recent reviews of 41 shown - <a href="/pubs/comments.shtml/631/"> see all reviews</a><table class="pubtable" width="650px">
+				<tr class="pubtable">
+					<td class="pubtable">Probably the best out of all the many Fullers pubs I&#39;ve been in. Tucked away in a typical Belgravia street, with a few interesting features on the outside and some cosy intimate drinking spaces on the inside, arranged around a square bar in the centre. Add a couple of interesting guest beers and this could be a 10/10 place, until then you&#39;ll have to make do with the usual Fullers range.<br />
+						<div style="float:left"><small> <a href="/pubs/report_comment.shtml?comment_id=363920">Report this for removal</a> </small> </div>
+						<div align="right"><small><a href="/user_profile.shtml?username=rob1981">rob1981</a> - 24 Mar 2011 20:42</small></div>
+					</td>
+				</tr>
+				<tr class="pubtable">
+					<td class="pubtable">Similar to an Antelope, &quot;Never look a gifted horse in the mouth&quot;<br />- the address puts you off BUT.... decent pints + good food in a pub that could be in Cumbria or Wales.... yet it&#39;s in a fancy place in London. Back this Antelope and you&#39;ll win some money from the bookies<br />
+						<div style="float:left"><small> <a href="/pubs/report_comment.shtml?comment_id=362155">Report this for removal</a> </small> </div>
+						<div align="right"><small><a href="/user_profile.shtml?username=Pyrrhula">Pyrrhula</a> - 10 Mar 2011 07:36</small></div>
+					</td>
+				</tr>
+				<tr class="pubtable">
+					<td class="pubtable">I can only agree with all the favourable reviews : nice area, nice beer and nice decor, etc...<br />
+						<div style="float:left"><small> <a href="/pubs/report_comment.shtml?comment_id=360497">Report this for removal</a> </small> </div>
+						<div align="right"><small><a href="/user_profile.shtml?username=malo66">malo66</a> - 22 Feb 2011 13:51</small></div>
+					</td>
+				</tr>
+				<tr class="pubtable">
+					<td class="pubtable">Wonderful little Fuller&#39;s tied house just North of Sloane Square. This is one of those pubs which is a joy just to kick back and drink in. Full Fuller&#39;s range in excellent condition. <br />
+						<br />Like the majority of Fuller&#39;s pubs the Antelope isn&#39;t trying to be anything special. It is just a charming and much loved establishment with good beer, and this is the reason it works so well. <br />
+						<div style="float:left"><small> <a href="/pubs/report_comment.shtml?comment_id=359571">Report this for removal</a> </small> </div>
+						<div align="right"><small><a href="/user_profile.shtml?username=Misk.">Misk.</a> - 14 Feb 2011 18:13</small></div>
+					</td>
+				</tr>
+				<tr class="pubtable">
+					<td class="pubtable">A rather charming little boozer buried in Belgravia that is well worth a stop-off. The place is set in a charming Georgian building the interior is a sturdy, wood-driven traditional affair that does not jar with one&#39;s external first impressions.<br />Perhaps a modest disappointment to some expecting a rather more individual set-up, as essentially the Antelope follows the rather formulaic (albeit often very successful) Fuller&#39;s format. This is a blueprint that most would find acceptable and is certainly ahead of some duller competitors in the capital, but it won&#39;t win any awards for authentic character or memorable features. Still, I&#39;m being picky really, as the pub offers a predictable but consistently high quality pint from the Fuller&#39;s range (my Chiswick was in good nick), and it clearly rates highly amongst the local cognoscenti as an after-work bolthole, for the place was heaving even though it was a quiet Tuesday evening in February. <br />
+						<br />Certainly worth a visit, provided you&#39;re a) patient in waiting for service and b) not fed up with the Fuller&#39;s brand of pub.<br />
+						<div style="float:left"><small> <a href="/pubs/report_comment.shtml?comment_id=358214">Report this for removal</a> </small> </div>
+						<div align="right"><small><a href="/user_profile.shtml?username=TWG">TWG</a> - 2 Feb 2011 13:57</small></div>
+					</td>
+				</tr>
+				<tr class="pubtable">
+					<td align="center" class="pubtable">
+						<br /><a href="/pubs/comments.shtml/631/">see more reviews</a><br />&nbsp;</td>
+				</tr>
+			</table>
+			<div class="noprint">
+				<h4><a class="black" name="addcomment">got anything to say about this pub?</a></h4>
+				<div class="info"> Please read our <a href="/faq.shtml#comments">comments policy</a> before posting. <br /> Only registered users can post reviews. Please <a href="/login.shtml">log in</a>. If you don&#39;t have an account yet, <a href="/register.shtml">register here</a>. </div> </div>
+			<p style="clear:both;">&nbsp;<div align="center">  </div>
+			<table bgcolor="#FFFFFF" border="0" width="100%">
+				<tr>
+					<td align="center"><small>Copyright <a href="http://www.neransk.com/">Neransk Limited</a> 2001-2011. All Rights Reserved. Calls to 0871 numbers cost 10p/min. | <a href="http://blog.beerintheevening.com">BITE Blog</a> | <a href="http://jobs.beerintheevening.com/">Pub Jobs</a></small></td>
+				</tr>
+			</table> </div>   </body>    </html>

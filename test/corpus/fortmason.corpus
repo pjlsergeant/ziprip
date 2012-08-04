@@ -1,0 +1,81 @@
+{
+   "addresses" : [
+      {
+         "country" : "US",
+         "title" : "Main Office",
+         "postcode" : "CA 94123",
+         "atoms" : [
+            "Landmark Building A",
+            "Marina Blvd and Buchanan St.",
+            "San Francisco"
+         ],
+         "via": "Generic"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.fortmason.org/aboutus/visitor-information"
+}
+---DIVIDER---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+		<title>Visitor Information</title>
+		<meta content="" name="keywords" />
+		<meta content="" name="description" />
+		<link rel="stylesheet" type="text/css" /> </head>
+	<body>
+		<div id="box">
+			<div id="top">
+				<div id="mydate">
+				</div>
+				<form action="http://www.fortmason.org/results" id="cse-search-box" style="display:inline;">
+					<div id="topnav"><a href="/signup">Sign-up for e-News</a> | <a href="/aboutus/visitor-information/directions">Directions</a> | <a href="/boxoffice">Box Office</a> | <a href="/aboutus/visitor-information">Contact</a> <input name="cx" type="hidden" value="016376892922023235155:1w-jmgsuqko" /> <input name="cof" type="hidden" value="FORID:10;NB:1" /> <input name="ie" type="hidden" value="UTF-8" /> <input name="q" type="text" value="SEARCH" /> <input name="sa" style="display:none;" type="submit" value="Search" /> </div>
+				</form>
+			</div>
+			<div id="sub">
+				<div id="subnav">
+					<div id="logo"><a href="/"><h1>Fort Mason Center, San Francisco</h1></a></div>
+					<div id="menu">
+						<ul>
+							<li id="events"><a href="/events">Events</a><li id="residents"><a href="/residents">Residents</a><li id="support"><a href="/support">Support</a><li class="selected" id="aboutus"><a href="/aboutus">About Us</a><li id="venuerental"><a href="/venuerental">Venue Rentals</a> </ul>
+					</div> </div>
+				<div id="bannerpix1"><img alt="" height="200" width="300" /></div>
+				<div id="bannerpix2"><img alt="" height="200" width="200" /></div> </div>
+			<div id="subbox">
+				<div id="sidebar"><img alt="" border="0" height="10" width="1" /><br />
+					<div class="sidenav">
+						<h2 id="side-readmore">Read more</h2>
+						<ul>
+							<li class="listItem first cms_aboutus_history"><a href="/aboutus/history">History</a><li class="listItem cms_aboutus_board_of_trustees"><a href="/aboutus/board-of-trustees">Board of Trustees</a><li class="listItem cms_aboutus_staff"><a href="/aboutus/staff">Staff</a><li class="listItem selected cms_aboutus_visitor_information"><a href="/aboutus/visitor-information">Visitor Information</a><ul>
+									<li class="listItem first cms_aboutus_visitor_information_directions"><a href="/aboutus/visitor-information/directions">Directions</a><li class="listItem cms_aboutus_visitor_information_campus_map"><a href="/aboutus/visitor-information/campus-map">Campus Map</a><li class="listItem last cms_aboutus_visitor_information_faq"><a href="/aboutus/visitor-information/faq">F.A.Q.</a> </ul> <li class="listItem cms_aboutus_press"><a href="/aboutus/press">Press</a><li class="listItem cms_aboutus_job_opportunities"><a href="/aboutus/job-opportunities">Job Opportunities</a><li class="listItem cms_aboutus_social_media"><a href="/aboutus/social-media">Social Media</a><li class="listItem cms_aboutus_outdoor_exploratorium"><a href="/aboutus/outdoor-exploratorium">Outdoor Exploratorium</a><li class="listItem last cms_aboutus_lease_space"><a href="/aboutus/lease-space">Lease Space</a> </ul> </div> </div>
+				<div id="content">
+					<div class="basetext">
+						<h2>Visitor Information</h2>
+						<h3>Location<br /> </h3>
+						<p>Fort Mason Center, located on Marina Boulevard at Buchanan Street, along the northern waterfront between Aquatic Park and the Marina Green, is within the Golden Gate National Recreation Area. <br /> <h3>Minimum Hours</h3>
+						<p>The Fort Mason Center office is staffed everyday from 9 am to 8 pm except for the following observed holidays:&nbsp; New Years Day, Martin Luther King&#39;s Birthday, Presidents&#39; Day, July 4, Labor Day, Thanksgiving Day and the day after, and Christmas Day.<br /> <p>Hours for individual organizations and programs vary.<h3>General Contact Information<strong><br /> </strong></h3>
+						<p><strong>&nbsp;&nbsp;&nbsp; Main Office<br /> &nbsp;&nbsp;&nbsp; Fort Mason Center<br /> &nbsp;&nbsp;&nbsp; Landmark Building A<br /> &nbsp;&nbsp;&nbsp; Marina Blvd and Buchanan St.<br /> &nbsp;&nbsp;&nbsp; San Francisco, CA 94123<br /> &nbsp;&nbsp;&nbsp; (415) 345-7500<br /> &nbsp;&nbsp;&nbsp; contact@fortmason.org</strong><a href="mailto:contact@fortmason.org"></a><h3>Lost and Found</h3>
+						<h3> </h3>
+						<p>Please call the Main Office at (415) 345-7500<h3>Parking</h3>
+						<p>All funds generated from parking revenue are allocated for the preservation and restoration of this National Historic Landmark. The Fort Mason Center parking lot is for people visiting or working on the campus. Vehicles can enter the lot at any time. There is a cashier on duty from 8:00 am until midnight every day. The exit gates accept credit or debit cards, so vehicles can exit after hours provided they do not require cashier assistance. Overnight parking is not permitted.<table border="0" cellpadding="0" cellspacing="0" height="160" width="338">
+							<tbody>
+								<tr>
+									<td colspan="2"><strong>Weekday Rates*</strong></td>
+									<td colspan="2"><strong>Weekend Rates**</strong></td> </tr>
+								<tr>
+									<td>0 - 29 minutes<br /> 0.5 - 1 hour<br /> 1 - 2 hours<br /> 2 - 4 hours<br /> 4 - 5 hours<br /> Over 5 hours<br /> </td>
+									<td>Free<br /> $1.00<br /> $2.00<br /> $4.00<br /> $6.00<br /> $8.00<br /> </td>
+									<td>0 - 29 minutes<br /> 0.5 - 1 hour<br /> 1 - 2 hours<br /> 2 - 2.5 hours<br /> 2.5 - 3 hours<br /> 3 - 4 hours<br /> Over 4 hours</td>
+									<td>Free<br /> $1.00<br /> $2.00<br /> $4.00<br /> $6.00<br /> $8.00<br /> $10.00</td> </tr> </tbody> </table>
+						<p>* Weekday parking is Monday-Friday until 4:00 pm (Vehicles entering lot prior to 4:00 pm Friday pay&nbsp;&nbsp; weekday rate regardless of when they exit on Friday)<br /> ** Weekend parking is Friday after 4:00 pm, Saturday &amp; Sunday (Vehicles entering lot at 4:00 pm or later on Friday pay weekend rate) <br /> <p>Zip Cars and Zip Car parking for four cars are available on the Fort Mason Center campus.<br /> <h3>Bike Racks<br /> </h3>
+						<p> Bike racks are located throughout the campus with the generous support of REI.&nbsp; At this time there are no indoor racks.&nbsp; <h3>&nbsp;Box Office</h3>
+						<p>The Cowell Theater box office opens 60 minutes prior to each performance for will-call and ticket purchase. <br /> <p>Phone calls or emails will be returned promptly if no one is available to immediately answer your question during regular business hours.<br /> (415) 345-7575 or <a href="mailto:boxoffice@fortmason.org">boxoffice@fortmason.org.<br /> </a><p><a href="mailto:boxoffice@fortmason.org"><br /> </a> </div>
+					<div class="sumend"><img alt="" border="0" height="30" width="610" /></div> </div>
+				<div id="sideright"> </div>
+				<div style="clear:both;">&nbsp;</div> </div>
+			<div id="footer">
+				<div id="f1"><a href="/">Home</a> | <a href="/events">Events</a> | <a href="/residents">Resident Organizations</a> | <a href="/support">Support</a> | <a href="/aboutus">About Us</a> | <a href="/venuerental">Venue Rentals</a><br /><a href="/aboutus/press/monthly-news">Newsletter</a> | <a href="/aboutus/visitor-information/directions">Directions</a> | <a href="/boxoffice">Box Office</a> | <a href="/aboutus/visitor-information">Contact</a> | <a href="/privacy">Privacy Policy</a> | <a href="/sitemap">Site Map</a></div>
+				<div id="f2">&nbsp;<br /> &copy; 2011 Fort Mason Center, All Rights Reserved. </div>
+			</div> </div> </body>    </html>

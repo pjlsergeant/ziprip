@@ -1,0 +1,31 @@
+{
+  "name": "zip-rip",
+  "version": "0.0.1",
+  "author": "Peter Sergeant <pete@clueball.com>",
+  "description": "Extract postal addresses from the DOM",
+  "contributors": [
+    {
+      "name": "Peter Sergeant",
+      "email": "pete@clueball.com"
+    }
+  ],
+  "main": "./src/extract",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheriff/Zip-Rip.git"
+  },
+  "keywords": [
+    "postcode",
+    "zipcode",
+    "geocoding",
+    "address"
+  ],
+  "devDependencies": {
+    "jsdom" : "0.2.x",
+    "tap"   : "0.3.x"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  }
+}

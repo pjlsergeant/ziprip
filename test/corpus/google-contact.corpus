@@ -1,0 +1,96 @@
+{
+   "addresses" : [
+      {
+         "country" : "US",
+         "title" : "Google Inc.",
+         "postcode" : "CA 94043",
+         "atoms" : [
+            "1600 Amphitheatre Parkway",
+            "Mountain View"
+         ],
+         "via": "Generic"
+      },
+      {
+         "country" : "UK",
+         "title" : "Google London",
+         "postcode" : "SW1W 9TQ",
+         "atoms" : [
+            "76 Buckingham Palace Road",
+            "London"
+         ],
+         "via": "Generic"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.google.com/contact"
+}
+---DIVIDER---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<title>Contact Us</title>
+		<link media="screen" rel="stylesheet" type="text/css" />
+		<link media="screen" rel="stylesheet" type="text/css" />
+		<link media="screen" rel="stylesheet" type="text/css" />
+		<link media="screen" rel="stylesheet" type="text/css" /> </head>
+	<body>
+		<div id="container">
+			<table border="0" cellpadding="0" cellspacing="0" id="header" width="100%">
+				<tr>
+					<td id="logo"><a href="/webhp?hl=en-GB"><img alt="Google Home" border="0" height="59" title="Google Home" width="143" /></a></td>
+					<td width="100%">
+						<h1>Contact Us</h1> </td> </tr> </table>
+			<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tr>
+					<td id="left-col" valign="top">
+						<div class="size">
+							<div class="nav">
+								<ul class="top">
+									<li><a href="/webhp?hl=en-GB">Home</a> <li><a href="/intl/en_uk/about.html">About Google</a><ul class="child">
+											<li class="active">Contact Us<li><a href="https://services.google.com/fb/forms/sharesuccess/">Share Success</a> <li><a href="newsletter.html">Google Newsletter</a>  </ul>  </ul> </div>
+							<div class="side-search">
+								<form action="/search">
+									<p><i>Find on this site:</i> <input name="q" size="10" type="text" value="" /><input name="output" type="hidden" value="googleabout" /><input name="sitesearch" type="hidden" value="www.google.co.uk/intl/en_uk/" /><input name="hl" type="hidden" value="en-GB" /><input name="submit" type="submit" value="Search" /> </form> </div> </div> </td>
+					<td id="left-col-divider">&nbsp;</td>
+					<td id="content" valign="top">
+						<h2>Thanks for your interest in Google.</h2>
+						<h3>Help with Google Services</h3>
+						<p>You can find up-to-date info for all of our services &ndash; from Google Web Search and Gmail to Google AdWords and Google AdSense &ndash; by visiting the <a href="http://www.google.com/support?hl=en-GB">Google Help</a> page. From there, you can navigate to a specific service&#39;s Help pages and browse through hundreds of commonly asked questions, find answers in a Help group or send us your comments and suggestions.<p>Note: If you&#39;d like to <strong>remove content</strong> from Google&#39;s Web Search or Image Search results, please visit our <a href="http://www.google.com/support/bin/answer.py?answer=508&amp;topic=360&amp;hl=en-GB">web page removal request tool</a>.<h3>Specific Enquiries:</h3>
+						<table border="0" cellpadding="3" cellspacing="3" style="margin-bottom: 12px" width="100%">
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/webmasters/index.html">Webmaster Info</a></td>
+								<td>Valuable resource for those responsible for web pages.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/jobs/index.html">We&#39;re Hiring</a></td>
+								<td>Search or browse our job openings.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/ads/index.html">Advertising</a></td>
+								<td>Submit specific questions for <a href="http://adwords.google.com/support?hl=en-GB">AdWords</a> or <a href="http://www.google.com/support/adsense?hl=en-GB">AdSense</a>. <a href="http://services.google.com/ads_inquiry/uk">Contact our AdWords sales team</a> if you would like to advertise on Google.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/services/">Business Solutions</a></td>
+								<td>Earn more revenue from your site, make corporate search easier.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/enterprise/">Enterprise Solutions</a></td>
+								<td>Submit your <a href="http://www.google.com/support/mini/bin/request.py?hl=en-GB">information request for enterprise solutions</a>.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="http://www.google.com/support/contact/bin/request.py?bdpg=1&amp;hl=en-GB">Business Proposals</a>&nbsp;&nbsp;</td>
+								<td>Submit your business proposal to us.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/permissions/index.html">Google Permissions</a></td>
+								<td>View our <a href="/intl/en_uk/permissions/guidelines.html">trademark guidelines</a> and <a href="/intl/en_uk/tm_complaint.html">trademark complaint procedure</a>.</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/contact/security.html">Security Issues</a></td>
+								<td>Report a security issue related to Google&#39;s services or systems</td> </tr>
+							<tr>
+								<td nowrap valign="top">&bull; <a href="/intl/en_uk/press/index.html">Press Centre</a></td>
+								<td>Press releases, articles, achievements, <a href="https://services.google.com/inquiry/speaker_request">requests for speakers</a> and more.</td> </tr> </table>
+						<h3>Our Address</h3>
+						<div class="addresslist">
+							<div class="addressgroup">
+								<p>Google&#39;s headquarters are located in the heart of Silicon Valley.<div class="address"><b><a href="http://maps.google.com/?q=Google Inc.@37.423156,-122.084917&amp;hl=en-GB" target="_blank">Google Inc.</a></b><br />1600 Amphitheatre Parkway<br />Mountain View, CA 94043<br />Phone: +1 650-253-0000<br />Fax: +1 650-253-0001<br /> </div> </div>
+							<div class="addressgroup">
+								<p>Our UK subsidiary is located in London.<div class="address"><b><a href="http://maps.google.com/?q=Google London@51.495238,-0.146663&amp;hl=en-GB" target="_blank">Google London</a></b><br />Google UK Ltd<br />Belgrave House<br />76 Buckingham Palace Road<br />London SW1W 9TQ<br />United Kingdom </div>
+								<p>View all of our locations on the <a href="/corporate/address.html">Google Offices</a> page.<p><a href="http://www.google.com/support/bin/static.py?page=portal_contact_options.cs">Contacting Google Support</a> </div>
+							<br class="clear" /> </div> </td> </tr> </table>
+			<div id="footer"> &copy;2011 Google - <a href="/webhp?hl=en-GB">Home</a> - <a href="/intl/en_uk/about.html">About Google</a> - <a href="/intl/en_uk/jobs/index.html">We&#39;re Hiring</a> - <a href="/intl/en_uk/sitemap.html">Site Map</a> </div> </div> </body>    </html>

@@ -1,0 +1,1350 @@
+{
+   "addresses" : [
+      {
+         "country" : "UK",
+         "title" : "Cambridge Business Park",
+         "postcode" : "CB4 0WZ",
+         "atoms" : [
+            "Cambridge Business Park",
+            "Cowley Rd",
+            "Cambridge"
+         ],
+         "via": "Generic"
+      },
+      {
+         "country" : "UK",
+         "title" : "Autonomy London",
+         "postcode" : "SW1Y 4JY",
+         "atoms" : [
+            "20-21 St James's Square",
+            "London"
+         ],
+         "via": "Generic"
+      }
+   ],
+   "disabled_for" : [],
+   "url" : "http://www.autonomy.com/content/Autonomy/Offices/index.en.html"
+}
+---DIVIDER---
+<!DOCTYPE
+ html
+ PUBLIC
+ "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+>
+<html id="htmlElement" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+		<meta content="en" http-equiv="content-language" />
+		<title>Autonomy Global Offices</title>
+		<link rel="canonical" />
+		<meta content="above, america, appear, appropriate, asia, attempted, autonomy, cambridge, china, click, closest, contact, current, determine, dual, enabled, europe, find, francisco, global, headquarters, japan, javascript, locate, location, map, near, north, office, offices, pacific, page, please, region, requires, retrieved, s, san, spanning, suitable, support, technical, uk, usa, use, western" name="keywords" />
+		<meta content="autonomy" name="category" />
+		<link rel="shortcut icon" />
+		<link rel="alternate" title="All Autonomy News" type="application/rss+xml" />
+		<link rel="alternate" title="Autonomy Power News" type="application/rss+xml" />
+		<link rel="alternate" title="Autonomy Protect News" type="application/rss+xml" />
+		<link rel="alternate" title="Autonomy Promote News" type="application/rss+xml" />
+		<link rel="alternate" title="Press Coverage" type="application/rss+xml" />
+		<link rel="search" title="Autonomy Group Site Search" type="application/opensearchdescription+xml" />
+		<link media="screen" rel="stylesheet" type="text/css" />
+		<link media="print" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" />   </head>
+	<body id="bodyElement">
+		<table class="template-fixed-width-banner" id="top-banner">
+			<tr>
+				<td class="template-fixed-width-banner-customers">
+					<div class="autn-scroller" id="customers-scroller-container" style="width:180px;height:81px;">&nbsp;</div>
+					<div class="autn-scroller-container" id="customers-scroller-container-container">
+						<div class="autn-scroller-region" id="customers-scroller-container-region">
+							<div>
+								<div class="customers-scroller-content">
+									<div>General Motors</div>
+									<div>BP</div>
+									<div>Ford Motor Company</div>
+									<div>AstraZeneca</div>
+									<div>DaimlerChrysler</div>
+									<div>CNN</div>
+									<div>General Electric</div>
+									<div>US Senate</div>
+									<div>Credit Suisse First Boston</div>
+									<div>Volkswagen</div>
+									<div>Siemens</div>
+									<div>Lloyds</div>
+									<div>BP</div>
+									<div>Philip Morris</div>
+									<div>Bloomberg</div>
+									<div>Verizon</div>
+									<div>AT&amp;T</div>
+									<div>Ericsson</div>
+									<div>FIAT</div>
+									<div>3</div>
+									<div>Nestle</div>
+									<div>HP</div>
+									<div>General Dynamics</div>
+									<div>Credit Lyonnais</div>
+									<div>Hewlett Packard</div>
+									<div>ABN Amro</div>
+									<div>UBS Warburg</div>
+									<div>Merrill Lynch</div>
+									<div>New York Stock Exchange</div>
+									<div>The Economist</div>
+									<div>France Telecom</div>
+									<div>Boeing</div>
+									<div>Lafarge</div>
+									<div>Safeway</div>
+									<div>People&#39;s Republic of China&#39;s</div>
+									<div>Ministry of Agriculture</div>
+									<div>Britvic Softdrinks</div>
+									<div>Nordea</div>
+									<div>Tesco</div>
+									<div>Pfizer</div>
+									<div>Philips</div>
+									<div>The Coca Cola Company</div>
+									<div>AstraZeneca</div>
+									<div>Intel</div>
+									<div>Sybase</div>
+									<div>Sprint</div>
+									<div>US Department of Commerce</div>
+									<div>Siemens</div>
+									<div>AstraZeneca</div>
+									<div>New York Life Insurance</div>
+									<div>Canon USA</div>
+									<div>Novell</div>
+									<div>New York Life Insurance</div>
+									<div>Ericsson</div>
+									<div>EDS</div>
+									<div>Philip Morris International</div>
+									<div>Royal &amp; SunAlliance</div>
+									<div>Novartis</div>
+									<div>Credit Lyonnais</div>
+									<div>Sun Microsystems</div>
+									<div>3</div>
+									<div>British American Tobacco</div>
+									<div>Norsk Hydro</div>
+									<div>AstraZeneca</div>
+									<div>Skanska</div>
+									<div>BAE Systems</div>
+									<div>Danske Bank</div>
+									<div>Kodak</div>
+									<div>General Motors</div>
+									<div>The Royal Mail Group</div>
+									<div>Henkel</div>
+									<div>Bank of Montreal</div>
+									<div>AT&amp;T</div>
+									<div>Danske Bank</div>
+									<div>UK Department of Trade &amp; Industry</div>
+									<div>BMW</div>
+									<div>Kronos Corporation</div>
+									<div>Fujitsu Technology Services</div>
+									<div>Zurich Financial Services</div>
+									<div>Halliburton</div>
+									<div>BBC</div>
+									<div>Blue Cross/Blue Shield of Massachusetts</div>
+									<div>T-Mobile</div>
+									<div>Nestle</div>
+									<div>Swiss Army</div>
+									<div>Channel 4 Corporation</div>
+									<div>VHA</div>
+									<div>Burges Salmon</div>
+									<div>Macmillan Publishing</div>
+									<div>Motorola</div>
+									<div>British Telecom</div>
+									<div>Nestle</div>
+									<div>Ferrari</div>
+									<div>General Electric</div>
+									<div>AT&amp;T</div>
+									<div>Deloitte &amp; Touche</div>
+									<div>PA Consulting</div>
+									<div>US Army</div>
+									<div>T-Mobile</div>
+									<div>3</div>
+									<div>Sun Microsystems</div>
+									<div>UK Department of Trade &amp; Industry</div>
+									<div>EMC Corporation</div>
+									<div>Nestle</div>
+									<div>Hewlett Packard</div>
+									<div>Vodafone Omnitel</div>
+									<div>US Department of Commerce</div>
+									<div>Encana Corporation</div>
+									<div>Hewlett Packard</div>
+									<div>IEEE</div>
+									<div>Hewitt Associates LLC</div>
+									<div>HEALTHvision</div>
+									<div>Paramount</div>
+									<div>Lexmark</div>
+									<div>US Department of Defense</div>
+									<div>JD Edwards</div>
+									<div>Ingersoll-Rand</div>
+									<div>PricewaterhouseCoopers</div>
+									<div>Vodafone Omnitel</div>
+									<div>BBC</div>
+									<div>Nomura</div>
+									<div>US State Department</div>
+									<div>US Department of Defense</div>
+									<div>Reed Elsevier</div>
+									<div>Dow Chemical Company</div>
+									<div>Siemens Power Generation</div>
+									<div>Texas Instruments</div>
+									<div>Forrester Research</div>
+									<div>Philips</div>
+									<div>AstraZeneca</div>
+									<div>The McGraw-Hill Companies</div>
+									<div>McData</div>
+									<div>Wall Street Journal</div>
+									<div>Lloyds</div>
+									<div>NASA</div>
+									<div>SCA</div>
+									<div>Royal &amp; SunAlliance</div>
+									<div>Reuters</div>
+									<div>HM Revenue &amp; Customs</div>
+									<div>ITN</div>
+									<div>IBM NICA</div>
+									<div>Forbes.com</div>
+									<div>Nissan North America, Inc.</div>
+									<div>Toyota Motor</div>
+									<div>Siemens</div>
+									<div>BBC</div>
+									<div>Philips</div>
+									<div>The McGraw-Hill Companies</div>
+									<div>MOL</div>
+									<div>Fox Sports</div>
+									<div>Society of Petroleum Engineers</div>
+									<div>US Department of Energy</div>
+									<div>European Commission</div>
+									<div>Telecom Italia</div>
+									<div>US State Department</div>
+									<div>Harrah&#39;s</div>
+									<div>General Motors</div>
+									<div>AXA</div>
+									<div>Lloyds</div>
+									<div>Sybase</div>
+									<div>Napster</div>
+									<div>Oracle</div>
+									<div>Pfizer</div>
+									<div>Compuware</div>
+									<div>3</div>
+									<div>Philips</div>
+									<div>US Department of Defense</div>
+									<div>Olympus</div>
+									<div>UK Department of Trade &amp; Industry</div>
+									<div>ARM</div>
+									<div>General Motors</div>
+									<div>Taylor &amp; Francis</div>
+									<div>BP</div>
+									<div>Federal Express</div>
+									<div>Nissan Motor</div>
+									<div>General Motors</div>
+									<div>Milward Brown Precis</div>
+									<div>Federal Government of Canada</div>
+									<div>UK Home Office</div>
+									<div>HM Revenue &amp; Customs</div>
+									<div>3</div>
+									<div>ABN Amro</div>
+									<div>Harvard Business School</div>
+									<div>Britvic Softdrinks</div>
+									<div>3</div>
+									<div>Henkel</div>
+									<div>MOL</div>
+									<div>Macmillan Publishing</div>
+									<div>Ingersoll-Rand</div>
+									<div>BP</div>
+									<div>Allianz Life Insurance Co</div>
+									<div>AstraZeneca</div>
+									<div>Swiss Army</div>
+									<div>Parliament of Singapore</div>
+									<div>Ericsson</div>
+									<div>VMS</div>
+									<div>Singapore Police Force</div>
+									<div>Sony Music</div>
+									<div>GSA Advantage!</div>
+									<div>Kaiser Permanente</div>
+									<div>Stanford Business School</div>
+									<div>Lloyds</div>
+									<div>Johns Hopkins</div>
+									<div>Nestle</div>
+									<div>Wachovia</div>
+									<div>Standard Life Insurance</div>
+									<div>Raytheon</div>
+									<div>Commerzbank</div>
+									<div>AstraZeneca</div>
+									<div>Allstate Insurance</div>
+									<div>Sun Microsystems</div>
+									<div>State of Washington</div>
+									<div>Napa Valley County</div>
+									<div>Texas Department of Transportation</div>
+									<div>American HomePatient</div>
+									<div>TIBCO</div>
+									<div>Sharper Image</div>
+									<div>US State Department</div>
+									<div>Xerox</div>
+									<div>America Online</div>
+									<div>AstraZeneca</div>
+									<div>Philips</div>
+									<div>US State Department</div>
+									<div>Sun Microsystems</div>
+									<div>Lockheed Northrop Grumman</div>
+									<div>Dow Chemical Company</div>
+									<div>Draeger Medical</div>
+									<div>Sutter Health</div>
+									<div>3</div>
+									<div>Kenyan AIDS Clinic</div>
+									<div>University of Washington</div>
+									<div>State of Minnesota</div>
+									<div>World Wildlife Fund</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="customers-scroller-mask"><span>Autonomy Group Customers</span></div>
+				</td>
+				<td class="template-fixed-width-banner-quotes">
+					<div id="JQUERY_QUOTES_BANNER_DEFAULT"><img alt="" /></div>
+					<div id="JQUERY_QUOTES_BANNER">
+						<div id="JQUERY_QUOTES_BANNER_IMAGES"><a href="/"><img alt="" /></a><a href="/"><img alt="" /></a><a href="/"><img alt="" /></a><a href="/"><img alt="" /></a><a href="/"><img alt="" /></a><a href="/"><img alt="" /></a></div>
+					</div>
+				</td>
+				<td class="template-fixed-width-banner-logo"><a href="/"><img alt="" /></a></td>
+			</tr>
+		</table>
+		<div class="mbt-reserved">&nbsp;</div>
+		<table class="body-container">
+			<tr>
+				<td class="body-container-left">
+					<div class="column-left">
+						<noscript>
+						</noscript>
+						<div class="mbt-sidemenu" onselectstart="return(false);">
+							<div class="mbt-sidemenu-title">
+								<div class="mbt-sidemenu-title-text"><a href="/content/Autonomy/index.en.html">Company</a></div>
+							</div>
+							<div class="mbt-sidemenu-content">
+								<div class="mbt-sidemenu-group">
+									<div class="mbt-sidemenu-group-title-text"><span><img alt="" class="mbt-sidemenu-toggle" id="toggle_SideMenuGroup1" /></span>About Autonomy</div>
+									<div class="mbt-sidemenu-toggler" id="SideMenuGroup1">
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/introduction/index.en.html">An Introduction to Autonomy</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/vision/index.en.html">Autonomy&#39;s Vision</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Technology/introduction/introduction-meaning-based-computing/index.en.html">Meaning Based Computing (MBC)</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/Management/index.en.html">The Management Team &amp; Board</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/Awards/index.en.html">Industry Recognition &amp; Awards</a></div>
+									</div>
+								</div>
+								<div class="mbt-sidemenu-group">
+									<div class="mbt-sidemenu-group-title-text"><span><img alt="" class="mbt-sidemenu-toggle" id="toggle_SideMenuGroup2" /></span>Find Out More...</div>
+									<div class="mbt-sidemenu-toggler" id="SideMenuGroup2">
+										<div class="mbt-sidemenu-group-item-text  mbt-sidemenu-group-item-text-current"><a href="/content/Autonomy/Offices/index.en.html">Autonomy Offices Worldwide</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Contact Autonomy<img alt="" class="icon" /></a></div>
+										<div class="mbt-sidemenu-group-item-text "><img alt="" class="icon" /><a href="/content/Autonomy/Publications/index.en.html">Downloads Library</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/FAQ/index.en.html">Frequently Asked Questions</a></div>
+										<div class="mbt-sidemenu-group-item-text "><a href="/content/Autonomy/Careers/index.en.html">Careers</a></div>
+									</div>
+								</div>
+							</div>
+							<div class="shade">
+								<table>
+									<tr>
+										<td class="shade-left"><img alt="" /></td>
+										<td class="shade-middle"><img alt="" /></td>
+										<td class="shade-right"><img alt="" /></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<div class="narrow-panel" style="">
+							<div class="narrow-panel-title">Autonomy Offices</div>
+							<div class="narrow-panel-content">
+								<div><a href="/content/Autonomy/Offices/index.en.html">Autonomy Offices</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/north-america.en.html">North America</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/latin-america.en.html">Latin America</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/europe.en.html">Europe</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/south-asia.en.html">South Asia</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/east-asia.en.html">East Asia</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/asia-pacific.en.html">Asia-Pacific</a> </div>
+								<div><a href="/content/Autonomy/Offices/regions/australasia.en.html">Australasia</a> </div> </div>
+							<div class="shade">
+								<table>
+									<tr>
+										<td class="shade-left"><img alt="" /></td>
+										<td class="shade-middle"><img alt="" /></td>
+										<td class="shade-right"><img alt="" /></td> </tr> </table> </div> </div>
+						<div class="narrow-panel" id="AJAXIDOLHYPERLINKCONTAINER" style="display:none;">
+							<div class="narrow-panel-title">Related Documents</div>
+							<div class="narrow-panel-content">
+								<div id="AJAXIDOLHYPERLINK">
+								</div>
+								<div><a href="http://www.autonomy.com/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html">Automatic Hyperlinks</a> provided by <a href="http://www.autonomy.com/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html">IDOL Server 7</a></div> </div>
+							<div class="shade">
+								<table>
+									<tr>
+										<td class="shade-left"><img alt="" /></td>
+										<td class="shade-middle"><img alt="" /></td>
+										<td class="shade-right"><img alt="" /></td> </tr> </table> </div> </div>
+						<br /> </div>    </td>
+				<td class="body-container-middle">
+					<div class="content" id="CONTENT_CONTAINER"><a name="top"></a><table class="page-turner page-turner-top">
+							<tr>
+								<td class="page-turner-title">Autonomy</td>
+								<td class="arrow"><a href="/content/Autonomy/Awards/index.en.html" title="Go to previous page..."><img alt="" /></a> </td>
+								<td class="left"><a href="/content/Autonomy/Awards/index.en.html" title="Go to previous page...">Industry Recognition &amp; Awards</a> </td>
+								<td class="center"> | </td>
+								<td class="center-label"> Autonomy Offices Worldwide </td>
+								<td class="center"> | </td>
+								<td class="right"><a href="/content/Autonomy/Publications/index.en.html" title="Go to next page...">Downloads Library</a> </td>
+								<td class="arrow"><a href="/content/Autonomy/Publications/index.en.html" title="Go to next page..."><img alt="" /></a> </td> </tr>
+						</table>
+						<h1>Autonomy Global Offices</h1>
+						<noscript>
+							<div class="javascript-warning">
+								<div>This page requires JavaScript to be enabled.</div> </div> </noscript>
+						<map id="world_map" name="world_map">
+							<area alt="North America" coords="4,95, 23,178, 87,144, 95,142, 134,155, 160,164, 214,110, 190,46, 162,3, 75,2, 16,26, 3,42" href="/content/Autonomy/Offices/regions/north-america.en.html" shape="poly" title="North America" />
+							<area alt="Latin America" coords="96,146, 158,167, 205,185, 246,209, 224,257, 183,322, 164,322, 151,297, 160,241, 138,200, 114,183, 81,151" href="/content/Autonomy/Offices/regions/latin-america.en.html" shape="poly" title="Latin America" />
+							<area alt="South Asia" coords="403,158, 412,177, 420,195, 430,189, 441,172, 447,167, 457,158, 453,151, 444,155, 435,154, 428,150, 425,146, 426,142, 422,137, 412,142" href="/content/Autonomy/Offices/regions/south-asia.en.html" shape="poly" title="South Asia" />
+							<area alt="East Asia" coords="427,137, 428,146, 441,154, 455,148, 477,177, 491,166, 507,168, 539,141, 546,118, 503,88, 481,102, 475,118, 458,117, 443,100, 421,109, 412,134" href="/content/Autonomy/Offices/regions/east-asia.en.html" shape="poly" title="East Asia" />
+							<area alt="Asia-Pacific" coords="441,193, 471,227, 504,223, 512,215, 546,221, 564,212, 520,191, 502,170, 495,167, 487,175, 477,194, 461,177" href="/content/Autonomy/Offices/regions/asia-pacific.en.html" shape="poly" title="Asia-Pacific" />
+							<area alt="Australasia" coords="482,239, 499,230, 513,218, 524,218, 539,221, 562,251, 571,263, 603,266, 587,306, 559,289, 535,289, 517,271, 488,280, 472,253" href="/content/Autonomy/Offices/regions/australasia.en.html" shape="poly" title="Australasia" />
+							<area alt="Europe" coords="303,43, 338,21, 350,31, 346,85, 368,105, 357,122, 344,124, 334,142, 317,137, 309,133, 293,134, 276,140, 267,127, 267,94, 283,67" href="/content/Autonomy/Offices/regions/europe.en.html" shape="poly" title="Europe" /> </map>
+						<div class="world-map" id="world-map-placeholder">
+							<div class="world-map-background"><img alt="" id="world_map_background" /></div>
+							<div class="world-map-australasia" id="world-map-australasia"><img alt="" /></div>
+							<div class="world-map-east-asia" id="world-map-east-asia"><img alt="" /></div>
+							<div class="world-map-asia-pacific" id="world-map-asia-pacific"><img alt="" /></div>
+							<div class="world-map-latin-america" id="world-map-latin-america"><img alt="" /></div>
+							<div class="world-map-europe" id="world-map-europe"><img alt="" /></div>
+							<div class="world-map-south-asia" id="world-map-south-asia"><img alt="" /></div>
+							<div class="world-map-north-america" id="world-map-north-america"><img alt="" /></div>
+							<div class="world-map-outlines" id="world-map-outlines"><img alt="" id="world_map_outlines" /></div>
+							<div class="shade">
+								<table>
+									<tr>
+										<td class="shade-left"><img alt="" /></td>
+										<td class="shade-middle"><img alt="" /></td>
+										<td class="shade-right"><img alt="" /></td> </tr> </table> </div> </div>
+						<p class="firstpara">With dual headquarters in Cambridge, UK and San Francisco, USA, Autonomy has global offices spanning North America, Western Europe, Australia, Asia-Pacific, Japan and China.<p class="firstpara">To find an office near you, please click your region on the map above.<div id="geo-nearest-office-title" style="display:none;">
+							<h2>Your Closest Autonomy Office(s)</h2>
+							<p>We have attempted to determine your current location, and retrieved the Autonomy Offices that appear to be closest to you. If these are not appropriate, please use the map above to locate a more suitable Autonomy Office. </div><a name="Autonomy UK Headquarters"></a><div class="office">
+							<div class="office-branch">Autonomy UK Headquarters</div>
+							<div class="office-address">
+								<div class="office-address-line">Registered Office: </div>
+								<div class="office-address-line">Cambridge Business Park </div>
+								<div class="office-address-line">Cowley Rd </div>
+								<div class="office-address-line">Cambridge </div>
+								<div class="office-address-line">CB4 0WZ </div>
+								<div class="office-address-line"> </div>
+								<div class="office-address-line">Registered in England 3175909 </div>
+							</div>
+							<div class="office-tel"> Tel: +44 (0) 1223 448000 </div>
+							<div class="office-tel"> Fax: +44 (0) 1223 448001 </div>
+							<div class="office-email"> Email: <a href="mailto:autonomy@autonomy.com">autonomy@autonomy.com</a> </div>
+							<div class="office-website"> Website: <a href="http://www.autonomy.com/">http://www.autonomy.com/</a> </div> </div><a name="Autonomy London"></a><div class="office">
+							<div class="office-branch">Autonomy London</div>
+							<div class="office-address">
+								<div class="office-address-line">20-21 St James&#39;s Square </div>
+								<div class="office-address-line">London </div>
+								<div class="office-address-line">SW1Y 4JY </div>
+							</div>
+							<div class="office-tel"> Tel: +44 (0) 207 104 5700 </div>
+							<div class="office-tel"> Fax: +44 (0) 207 104 5800 </div>
+							<div class="office-email"> Email: <a href="mailto:autonomy@autonomy.com">autonomy@autonomy.com</a> </div>
+							<div class="office-website"> Website: <a href="http://www.autonomy.com/">http://www.autonomy.com/</a> </div> </div><a name="Autonomy Projects Office"></a><div class="office">
+							<div class="office-branch">Autonomy Projects Office</div>
+							<div class="office-address">
+								<div class="office-address-line">105 Piccadilly (First Floor) </div>
+								<div class="office-address-line">London </div>
+								<div class="office-address-line">W1J 7NJ </div>
+							</div>
+							<div class="office-email"> Email: <a href="mailto:autonomy@autonomy.com">autonomy@autonomy.com</a> </div>
+							<div class="office-website"> Website: <a href="http://www.autonomy.com/">http://www.autonomy.com/</a> </div> </div>
+						<table>
+							<tr>
+								<td>
+									<table class="custom-button custom-button-small custom-button-small-red" onselectstart="return(false);" title="">
+										<tr>
+											<td class="custom-button-left"><img alt="" /></td>
+											<td class="custom-button-label"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy&amp;mediacode=www_autonomy_com_world_map" rel="nofollow">Click here to contact Autonomy</a> </td>
+											<td class="custom-button-right"><img alt="" /></td> </tr> </table> </td>
+								<td>
+									<table class="custom-button custom-button-small custom-button-small-red" onselectstart="return(false);" title="">
+										<tr>
+											<td class="custom-button-left"><img alt="" /></td>
+											<td class="custom-button-label"><a href="/content/Services/Support/index.en.html" rel="nofollow">Contact Autonomy Technical Support</a> </td>
+											<td class="custom-button-right"><img alt="" /></td> </tr> </table> </td> </tr> </table>
+						<br />
+						<br />
+						<br />
+						<br />
+						<table class="page-turner page-turner-bottom">
+							<tr>
+								<td class="page-turner-title">Autonomy</td>
+								<td class="arrow"><a href="/content/Autonomy/Awards/index.en.html" title="Go to previous page..."><img alt="" /></a> </td>
+								<td class="left"><a href="/content/Autonomy/Awards/index.en.html" title="Go to previous page...">Industry Recognition &amp; Awards</a> </td>
+								<td class="center"> | </td>
+								<td class="center-label"> Autonomy Offices Worldwide </td>
+								<td class="center"> | </td>
+								<td class="right"><a href="/content/Autonomy/Publications/index.en.html" title="Go to next page...">Downloads Library</a> </td>
+								<td class="arrow"><a href="/content/Autonomy/Publications/index.en.html" title="Go to next page..."><img alt="" /></a> </td> </tr>
+						</table>
+						<div class="bottom-panel" id="BOTTOM_PANEL"> </div> </div> </td>
+				<td class="body-container-right">
+					<div class="column-right">
+						<div class="narrow-panel contact-panel" lang="en">
+							<div class="contact-panel-title"><a href="/content/Autonomy/Offices/index.en.html">Contact Us</a> </div>
+							<div class="contact-panel-telephone" title="Autonomy UK Headquarters telephone number">+44 (0) 1223 448000</div>
+							<div class="contact-panel-request"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy" title="Click here to schedule a meeting with us">Schedule a Meeting</a> </div> </div>
+						<div class="narrow-panel-lozenge" style=""><a href="http://campaign.autonomy.com/gartner-wcm-mq-report-2010"> <img alt="" title="Magic Quadrant for Web Content Management - Mick MacComascaigh, Toby Bell, Jim Murphy - Gartner" /> </a> </div>
+						<div class="narrow-panel-lozenge" style=""><a href="http://publications.autonomy.com/docs/Forrester%20Wave%20-%20Online%20Testing%20-%20Q3%202010"> <img alt="" title="The Forrester Wave - Online Testing, Q3 2010 - by Joe Stanhope, Forrester" /> </a> </div>
+						<div class="narrow-panel-lozenge" style=""><a href="http://audiovideo.economist.com/?fr_story=e85ae0fb8dcf80918f5c658b3df49eb6726725f4&amp;rf=bm"> <img alt="Autonomy CEO Dr Mike Lynch on Intelligent Search, 3rd July, 2009" title="Autonomy CEO Dr Mike Lynch on Intelligent Search, 3rd July, 2009" /> </a> </div>
+						<div class="narrow-panel-lozenge" style="width:155px;"><a href="/content/redirector.en.html?destination=http://videos.silicon.com/60564232.htm"> <img alt="Autonomy CEO Dr Mike Lynch on Autonomy&#39;s present and future, 23rd March, 2009" title="Autonomy CEO Dr Mike Lynch on Autonomy&#39;s present and future, 23rd March, 2009" /> </a> </div>
+						<br /> </div>    </td> </tr> </table>
+		<div class="page-footer-global page-footer-simple">
+			<div class="shade">
+				<table>
+					<tr>
+						<td class="shade-left"><img alt="" /></td>
+						<td class="shade-middle"><img alt="" /></td>
+						<td class="shade-right"><img alt="" /></td> </tr> </table> </div>
+			<div class="legal"><a href="/">home</a> :: <a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Contact Autonomy</a> :: <a href="/content/Autonomy/Offices/index.en.html">Offices Worldwide</a> :: <a href="/content/Autonomy/Careers/index.en.html">Careers</a> :: <a href="/content/Legal/LegalDisclaimer.en.html">Legal Disclaimer</a> :: <a href="/content/Legal/PrivacyPolicy.en.html">Privacy Policy</a> </div>
+			<div class="legal"><a href="/content/News/RSS/index.en.html"><img alt="" class="icon" />RSS Feeds</a> :: <a href="/content/Autonomy/Sitemap.en.html">Sitemap</a> :: <a href="mailto:autonomy@autonomy.com">E-Mail Autonomy</a> :: <a href="mailto:webmaster@autonomy.com">E-Mail Webmaster</a> </div>
+			<div class="micro-search">
+				<form action="http://www.autonomy.com/content/IDOL7/index.en.html" enctype="application/x-www-form-urlencoded" method="get" name="IDOLSearchAllForm"><input name="mode" type="hidden" value="autonomy" /> <input name="advance" type="hidden" value="true" /> <input name="num_results" type="hidden" value="20" /> <input name="cats_checkall" type="hidden" value="true" /> <input name="sites_checkall" type="hidden" value="true" /> <input name="cat_news" type="hidden" value="news" /> <input name="cat_investors" type="hidden" value="investors" /> <input name="cat_events" type="hidden" value="events" /> <input name="cat_company" type="hidden" value="company" /> <input name="cat_video" type="hidden" value="video" /> <input name="cat_case_studies" type="hidden" value="case_studies" /> <input name="cat_products" type="hidden" value="products" /> <input name="cat_white_papers" type="hidden" value="white_papers" /> <input name="cat_services" type="hidden" value="services" /> <input name="cat_publications" type="hidden" value="publications" /> <input name="cat_solutions" type="hidden" value="solutions" /> <input name="cat_partners" type="hidden" value="partners" /> <input name="cat_customers" type="hidden" value="customers" /> <input name="cat_verticals" type="hidden" value="verticals" /> <input name="cat_technology" type="hidden" value="technology" /> <input name="query_lang" type="hidden" value="en" /> <input name="lang_en" type="hidden" value="en" /> <span> <input class="search-text" name="query" type="text" value="IDOL Search" /> <input class="submit" type="submit" value="search" /> </span> </form> </div>
+			<div class="legal">Copyright &copy; 2011 Autonomy Corp.</div> </div>
+		<div class="mbt-container" id="mbt-container">
+			<div class="mbt-top-level-end"><img alt="" /></div>
+			<div class="mbt-top-level-item mbt-top-level-item-current" id="toplevel_menu1">
+				<div><a href="/content/Autonomy/index.en.html">Company</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu2">
+				<div><a href="/content/Technology/index.en.html">Technology</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu3">
+				<div><a href="/content/Functionality/index.en.html">Functionality</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu4">
+				<div><a href="/content/Products/products.en.html">Products</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu5">
+				<div><a href="/content/Solutions/index.en.html">Solutions</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu6">
+				<div><a href="/content/Services/index.en.html">Services</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu7">
+				<div><a href="/content/Customers/index.en.html">Customers</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu8">
+				<div><a href="/content/Partners/index.en.html">Partners</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu9">
+				<div><a href="/content/News/index.en.html">News &amp; Events</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+			<div class="mbt-top-level-item" id="toplevel_menu10">
+				<div><a href="/content/Investors/index.en.html">Investors</a></div>
+			</div>
+			<div class="mbt-top-level-divider"><img alt="" /></div>
+		</div>
+		<div class="mbt-menu-tab" id="menu1_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu1">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu1_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">About Autonomy</div>
+											<div class="menu-item"><a href="/content/Autonomy/introduction/index.en.html">An Introduction to Autonomy</a></div>
+											<div class="menu-item"><a href="/content/Autonomy/vision/index.en.html">Autonomy&#39;s Vision</a></div>
+											<div class="menu-item"><a href="/content/Technology/introduction/introduction-meaning-based-computing/index.en.html">Meaning Based Computing (MBC)</a></div>
+											<div class="menu-item"><a href="/content/Autonomy/Management/index.en.html">The Management Team &amp; Board</a></div>
+											<div class="menu-item"><a href="/content/Autonomy/Awards/index.en.html">Industry Recognition &amp; Awards</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Find Out More...</div>
+											<div class="menu-item"><a href="/content/Autonomy/Offices/index.en.html">Autonomy Offices Worldwide</a></div>
+											<div class="menu-item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Contact Autonomy<img alt="" /></a></div>
+											<div class="menu-item"><img alt="" /><a href="/content/Autonomy/Publications/index.en.html">Downloads Library</a></div>
+											<div class="menu-item"><a href="/content/Autonomy/FAQ/index.en.html">Frequently Asked Questions</a></div>
+											<div class="menu-item"><a href="/content/Autonomy/Careers/index.en.html">Careers</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_company" type="hidden" value="company" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><div class="menu-item-text">Search within Company:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu2_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu2">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu2_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Autonomy&#39;s Technology</div>
+											<div class="menu-item"><a href="/content/Technology/evolution/evolution-of-search/index.en.html">Understanding Meaning: An Evolution</a></div>
+											<div class="menu-item"><a href="/content/Technology/autonomys-technology-a-different-approach/index.en.html">A Different Approach</a></div>
+											<div class="menu-item"><a href="/content/Technology/autonomys-technology-innovation/index.en.html">Innovation</a></div>
+											<div class="menu-item"><a href="/content/Technology/autonomys-technology-limitations-of-other-approaches/index.en.html">Limitations of Other Approaches</a></div>
+											<div class="menu-item"><a href="/content/Technology/autonomys-technology-idol-server-security-and-scalability/index.en.html">Security, Scalability and Performance</a></div>
+											<div class="menu-item"><a href="/content/Technology/autonomys-technology-idol-server-global-language-support/index.en.html">Global Language Support</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Unified Information Access</div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-unifying-information/index.en.html">Unifying Information</a></div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-structured-data/index.en.html">Structured Data</a></div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-semi-structured-data/index.en.html">Semi-Structured Data</a></div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-unstructured-content/index.en.html">Unstructured Content</a></div>
+											<div class="menu-item-heading-2">Connectivity</div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-information-connectivity/index.en.html">Information Connectivity</a></div>
+											<div class="menu-item-heading-2">Rich Media</div>
+											<div class="menu-item"><a href="/content/Technology/idol-functionality-audio-and-speech/index.en.html">Video, Audio &amp; Speech Analysis</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_technology" type="hidden" value="technology" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><div class="menu-item-text">Search within Technology:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu3_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu3">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu3_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2"><a href="/content/Functionality/administration/index.en.html" title="">Administration</a></div>
+											<div class="menu-item"><a href="/content/Functionality/administration-idol-sentient-dashboard/index.en.html">IDOL Sentient Dashboard</a></div>
+											<div class="menu-item"><a href="/content/Functionality/administration-autonomy-business-console/index.en.html">Autonomy Business Console (ABC)</a></div>
+											<div class="menu-item-heading-2"><a href="/content/Functionality/interfaces/index.en.html" title="">User Interfaces</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-modules-portal-in-a-box/index.en.html">Portal-in-a-Box</a></div>
+											<div class="menu-item"><a href="/content/Functionality/interfaces-user-experience-enhancement/index.en.html">User Experience Enhancement</a></div>
+											<div class="menu-item"><a href="/content/Functionality/interfaces-pods/index.en.html">PODS &amp; Portlets</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Search &amp; Retrieval</div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-legacy-search/index.en.html">Legacy Search</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-conceptual-search/index.en.html">Conceptual Search</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-directed-navigation/index.en.html">Directed Navigation</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-automatic-hyperlinking/index.en.html">Automatic Hyperlinking</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-aqg/index.en.html">Automatic Query Guidance</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-rpq/index.en.html">Real-Time Predictive Query</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-aqf/index.en.html">Automatic Query Federation</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-device-specific-answers/index.en.html">Device-Specific Answers</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Analytics, Visualization &amp; Taxonomy</div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-categorization/index.en.html">Automatic Classification &amp; Taxonomy Generation</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-automatic-clustering/index.en.html">Automatic Clustering</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-ideas-cloud/index.en.html">Ideas Cloud</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-nlp/index.en.html">Natural Language Processing &amp; Conversation</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-sentiment/index.en.html">Sentiment Analysis</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-idol-eduction/index.en.html">IDOL Eduction</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-content-rationalization/index.en.html">Content Rationalization</a></div>
+											<div class="menu-item-heading-2">Collaboration &amp; Personalization</div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-collaboration-and-expertise-networks/index.en.html">Collaboration and Expertise Networks</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-web-2/index.en.html">Social Technologies</a></div>
+											<div class="menu-item"><a href="/content/Functionality/idol-functionality-personalization-operations/index.en.html">Personalization Operations</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_functionality" type="hidden" value="functionality" /><input name="cat_products" type="hidden" value="products" /><input name="cat_solutions" type="hidden" value="solutions" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><div class="menu-item-text">Search within Functionality:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu4_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu4">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu4_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2 menu-item-heading-2-tight">Power</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="/content/Products/products-idol-server/index.en.html">IDOL Server</a><div class="menu-item-hint">Understanding Meaning</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="/content/Products/idol-modules-idol-answer/index.en.html">IDOL Answer</a><div class="menu-item-hint">Automatically respond to online queries</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="/content/Products/idol-modules-idol-federator/index.en.html">IDOL Federator</a><div class="menu-item-hint">Dynamically merge multiple source search results</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="/content/Products/idol-modules-idol-me/index.en.html">IDOL Mobile Edition (IDOLme)</a><div class="menu-item-hint">Solution for mobile devices</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="/content/Products/idol-universal-search/index.en.html">IDOL Universal Search</a><div class="menu-item-hint">Search and knowledge management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="/content/Products/express-search/index.en.html">Autonomy Express Search</a><div class="menu-item-hint">Unified desktop search toolbar</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="/content/Technology/idol-functionality-information-connectivity/index.en.html">IDOL Connectors</a><div class="menu-item-hint">Access 400+ content repositories</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="/content/Products/idol-modules-connectors/index.en.html">KeyView IDOL</a><div class="menu-item-hint">Filter, view and export any document type</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="/content/Products/idol-spe/index.en.html">IDOL SPE</a><div class="menu-item-hint">Bringing Meaning to structured information</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://www.cardiff.com/">Process Automation<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://www.cardiff.com/products/teleform/index.html">Teleform<img alt="" /></a><div class="menu-item-hint">Document capture and scan</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://www.cardiff.com/products/liquidoffice/index.html">LiquidOffice<img alt="" /></a><div class="menu-item-hint">Information process management</div>
+											</div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2 menu-item-heading-2-tight">Protect</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://protect.autonomy.com/products/compliance/index.htm">Regulatory and Compliance<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/compliance/controlpoint/index.htm">ControlPoint<img alt="" /></a><div class="menu-item-hint">Policy enforcement for distributed content</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/compliance/supervisor/index.htm">Supervisor<img alt="" /></a><div class="menu-item-hint">Enterprise communication monitoring</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/compliance/interaction-control-element/index.htm">Interaction Control Element<img alt="" /></a><div class="menu-item-hint">Real-time security and compliance</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/compliance/social-media-governance/index.htm">Social Media Governance<img alt="" /></a><div class="menu-item-hint">Monitoring, analytics and policy enforcement</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://protect.autonomy.com/products/content-archiving/consolidated-archive/index.htm">Consolidated Archive<img alt="" /></a><div class="menu-item-hint">Scalable, unified content archiving</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-archiving/consolidated-archive/index.htm">Digital Safe<img alt="" /></a><div class="menu-item-hint">Advanced, accessible archive for all ESI</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-archiving/consolidated-archive/index.htm">EAS<img alt="" /></a><div class="menu-item-hint">Meaning-based, active archive</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-archiving/consolidated-archive/index.htm">Message Manager<img alt="" /></a><div class="menu-item-hint">Email archive for Exchange, Groupwise and Notes</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-archiving/consolidated-archive/index.htm">Arcpliance<img alt="" /></a><div class="menu-item-hint">Power and simplicity in one archiving box</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://protect.autonomy.com/products/records-management/index.htm">Records Management<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/records-management/autonomy-records-manager/index.htm">Records Manager (formerly CARM)<img alt="" /></a><div class="menu-item-hint">Controlled content retention and disposition</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/records-management/autonomy-records-manager/index.htm">Meridio Records Manager<img alt="" /></a><div class="menu-item-hint">Enterprise retention and dispositon Management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-management/scrittura/index.htm">Scrittura<img alt="" /></a><div class="menu-item-hint">Post-trade lifecycle management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/content-management/template-manager/index.htm">Document Generator &amp; Template Manager<img alt="" /></a><div class="menu-item-hint">Template-driven document creation</div>
+											</div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2 menu-item-heading-2-tight">&nbsp;</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/index.htm">eDiscovery<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/eca/index.htm">Investigator and Early Case Assessment<img alt="" /></a><div class="menu-item-hint">Rapid first review and analysis</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/legal-hold/index.htm">Legal Hold<img alt="" /></a><div class="menu-item-hint">eDiscovery notification, preservation, collection and mapping</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/introspect/index.htm">Introspect<img alt="" /></a><div class="menu-item-hint">eDiscovery processing, review and production</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/hosted-ediscovery/index.htm">Hosted eDiscovery<img alt="" /></a><div class="menu-item-hint">Cloud-based end-to-end eDiscovery</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/ediscovery/ediscovery-appliance/index.htm">eDiscovery Appliance<img alt="" /></a><div class="menu-item-hint">Plug and play eDiscovery</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://protect.autonomy.com/products/legal/index.htm">Legal and Professional Services<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/legal/worksite/index.htm">WorkSite<img alt="" /></a><div class="menu-item-hint">Document and email management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/legal/universal-search/index.htm">iManage UniversalSearch<img alt="" /></a><div class="menu-item-hint">Search and knowledge management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/legal/express-search/index.htm">Autonomy Express Search<img alt="" /></a><div class="menu-item-hint">Unified search toolbar</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/legal/conflictsmanager/index.htm">iManage Conflicts Manager<img alt="" /></a><div class="menu-item-hint">Conflict of interest review</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/records-management/autonomy-records-manager/index.htm">iManage Records Manager<img alt="" /></a><div class="menu-item-hint">Physical and electronic records management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://protect.autonomy.com/products/legal/workflow-manager/index.htm">Workflow Manager<img alt="" /></a><div class="menu-item-hint">Intelligent process automation</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://www.virage.com/security-and-surveillance/index.htm">Security and Surveillance<img alt="" /></a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2 menu-item-heading-2-tight"><a href="http://promote.autonomy.com/" title="">Promote</a></div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::WEB_CONTENT">Web Content Management<img alt="" /></a></div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::TEAMSITE">TeamSite<img alt="" /></a><div class="menu-item-hint">Web content management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::LIVESITE">LiveSite<img alt="" /></a><div class="menu-item-hint">Dynamic targeted delivery</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::OPENDEPLOY">OpenDeploy<img alt="" /></a><div class="menu-item-hint">Aggregate and deploy content</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::OPTIMOST">Optimost<img alt="" /></a><div class="menu-item-hint">Revenue optimization</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::EXPLORE">Explore<img alt="" /></a><div class="menu-item-hint">Multichannel optimization</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::VIRAGE">Virage<img alt="" /></a><div class="menu-item-hint">Video and audio analytics</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::MEDIABIN">Virage MediaBin<img alt="" /></a><div class="menu-item-hint">Digital asset management</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::VIRAGE">VS Archive<img alt="" /></a><div class="menu-item-hint">Rich media management and archive</div>
+											</div>
+											<div class="menu-item menu-item-indent menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=ARCHIVING::ACID">ACID<img alt="" /></a><div class="menu-item-hint">Copyright infringement detection</div>
+											</div>
+											<div class="menu-item menu-item-heading-3 menu-item-tight"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::QFINITI">Qfiniti<img alt="" /></a><div class="menu-item-hint">Contact center management</div>
+											</div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_products" type="hidden" value="products" /><input name="cat_solutions" type="hidden" value="solutions" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><input name="site_protect.autonomy.com" type="hidden" value="protect.autonomy.com" /><input name="site_promote.autonomy.com" type="hidden" value="promote.autonomy.com" /><input name="site_www.autonomyhealth.com" type="hidden" value="www.autonomyhealth.com" /><div class="menu-item-text">Search within Products:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu5_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu5">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu5_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Power</div>
+											<div class="menu-item"><a href="/content/Solutions/enterprise-search/index.en.html">Pan-Enterprise Search</a></div>
+											<div class="menu-item"><a href="/content/Products/idol-spe/index.en.html">Probabilistic Analysis</a></div>
+											<div class="menu-item"><a href="http://www.cardiff.com/">Business Process Management<img alt="" /></a></div>
+											<div class="menu-item"><a href="/content/Solutions/idol-functionality-collaboration-and-expertise-networks/index.en.html">Collaboration and Expertise Networks</a></div>
+											<div class="menu-item"><a href="/content/Solutions/knowledge-management-elearning/index.en.html">Knowledge Management &amp; eLearning</a></div>
+											<div class="menu-item"><a href="/content/Solutions/idol-functionality-personalization-operations/index.en.html">Personalization Operations</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2"><a href="http://protect.autonomy.com/" title="">Protect</a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/ediscovery/index.htm">eDiscovery<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/compliance/index.htm">Compliance<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/content-management/index.htm">Content Management<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/legal/index.htm">Legal Market<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/records-management/index.htm">Records Management<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://protect.autonomy.com/solutions/content-archiving/index.htm">Content Archiving<img alt="" /></a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2"><a href="http://promote.autonomy.com/" title="">Promote</a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::WEB_CONTENT">Web Content Management<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::MARKETING_OPTIMIZATION">Revenue Optimization<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::ADVANCED_ANALYTICS">Advanced Analytics<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::SOCIAL_MEDIA">Social Media<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::ECOMMERCE">eCommerce<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=MULTICHANNEL::MOBILE">Mobile<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::MERCHANDISING_RECOMMENDATION">Merchandizing &amp; Recommendations<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::SEGMENTATION_TARGETING">Segmentation &amp; Targeting<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::MULTICHANNEL_OPTIMIZATION">Multichannel Optimization<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=SOLUTION::CONTACT_CENTER">Contact Center<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::RICH_MEDIA_MANAGEMENT">Rich Media Management<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=PRODUCT::VIRAGE">News Media Monitoring<img alt="" /></a></div>
+											<div class="menu-item"><a href="http://promote.autonomy.com/components/pagenext.jsp?topic=IDOL::ARCHIVING_COMPLIANCE">Archiving and Compliance<img alt="" /></a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2"><a href="http://www.autonomyhealth.com/" title="">Healthcare</a></div>
+											<div class="menu-item"><a href="http://www.autonomyhealth.com/">Meaning Based Healthcare<img alt="" /></a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_solutions" type="hidden" value="solutions" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><input name="site_protect.autonomy.com" type="hidden" value="protect.autonomy.com" /><input name="site_promote.autonomy.com" type="hidden" value="promote.autonomy.com" /><input name="site_www.autonomyhealth.com" type="hidden" value="www.autonomyhealth.com" /><div class="menu-item-text">Search within Business Solutions:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu6_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu6">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu6_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Autonomy Education</div>
+											<div class="menu-item"><a href="/content/Services/Training/index.en.html">Autonomy Training Courses</a></div>
+											<div class="menu-item-heading-2">Autonomy Customer Support</div>
+											<div class="menu-item"><a href="/content/Services/PCLSP/index.en.html">Customer Liaison</a></div>
+											<div class="menu-item"><a href="/content/Services/Support/index.en.html">Technical Support Contacts</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Autonomy Professional Services</div>
+											<div class="menu-item"><a href="/content/Services/index.en.html">Support &amp; Services</a></div>
+											<div class="menu-item-heading-2">Autonomy Consulting</div>
+											<div class="menu-item"><a href="/content/Services/Consulting/index.en.html">Autonomy Consulting Services</a></div>
+											<div class="menu-item"><a href="/content/Services/Consulting/search/index.en.html">Enterprise Search Consulting</a></div>
+											<div class="menu-item"><a href="/content/Services/Consulting/business-process/index.en.html">Business Process Management Consulting</a></div>
+											<div class="menu-item-heading-2"><a href="/content/Services/Web-Consulting-Services/index.en.html" title="">Web Consulting Services</a></div>
+											<div class="menu-item"><a href="/content/Services/Web-Consulting-Services/Delivery-Services/index.en.html">Delivery Services</a></div>
+											<div class="menu-item"><a href="/content/Services/Web-Consulting-Services/Strategic-Services/index.en.html">Strategic Services</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_services" type="hidden" value="services" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><div class="menu-item-text">Search within Services:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu7_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu7">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu7_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2"><a href="/content/Customers/index.en.html" title="">Autonomy Customers</a></div>
+											<div class="menu-item"><a href="/content/Customers/index.en.html">A Broad Customer Base</a></div>
+											<div class="menu-item"><a href="/content/Customers/case-studies/index.en.html">Case Studies &amp; References</a></div>
+											<div class="menu-item"><a href="/content/Customers/video/catalog/case-studies/index.en.html">Video Testimonials</a></div>
+											<div class="menu-item-heading-2">Customer Services</div>
+											<div class="menu-item"><a href="/content/Services/PCLSP/index.en.html">Customer Liaison</a></div>
+											<div class="menu-item"><a href="/content/Services/Training/index.en.html">Customer Training Courses</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Vertical Markets</div>
+											<div class="menu-item"><a href="/content/Customers/verticals/education/index.en.html">Education</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/energy/index.en.html">Energy &amp; Utilities</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/financial-services/index.en.html">Financial Services</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/government/index.en.html">Government</a></div>
+											<div class="menu-item"><a href="http://www.autonomyhealth.com/">Healthcare<img alt="" /></a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/investigative/index.en.html">Investigative</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/legal/index.en.html">Legal</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/manufacturing/index.en.html">Manufacturing</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/media/index.en.html">Media</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/pharmaceutical/index.en.html">Pharmaceutical</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/professional_services/index.en.html">Professional Services / Consulting</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/retail-and-consumer/index.en.html">Retail &amp; Consumer</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/technology/index.en.html">Technology</a></div>
+											<div class="menu-item"><a href="/content/Customers/verticals/telecommunications/index.en.html">Telecommunications</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_customers" type="hidden" value="customers" /><input name="cat_case studies" type="hidden" value="case studies" /><input name="cat_verticals" type="hidden" value="verticals" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><input name="site_publications.autonomy.com" type="hidden" value="publications.autonomy.com" /><div class="menu-item-text">Search Customers:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu8_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu8">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu8_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Autonomy Partners</div>
+											<div class="menu-item"><a href="/content/Partners/index.en.html">Autonomy Partner Program</a></div>
+											<div class="menu-item"><a href="/content/Services/Training/index.en.html">Partner Training Courses</a></div>
+											<div class="menu-item"><a href="/content/Partners/Partner-Finder/index.en.html">Find a Partner</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2"><a href="/content/Partners/OEMs/index.en.html" title="">Autonomy Inside</a></div>
+											<div class="menu-item"><a href="/content/Partners/OEMs/introduction/introduction-autonomy-oems/index.en.html">Autonomy OEM Program</a></div>
+											<div class="menu-item"><a href="/content/Partners/OEMs/Become-OEM/index.en.html">Becoming an Autonomy OEM</a></div>
+											<div class="menu-item"><a href="/content/Partners/OEMs/OEM-Portfolio/index.en.html">OEMs Embedding Autonomy</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_partners" type="hidden" value="partners" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><div class="menu-item-text">Search within Partners:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu9_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu9">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu9_content">
+								<div class="menu-item-dynamic-text-only">
+									<div class="menu-item-heading-1 menu-item-heading-1-dynamic">Autonomy in the News:</div>
+									<div class="menu-item-text">23rd May, 2011,&nbsp;<a href="http://www.cio.co.uk/article/3280857/bells-in-the-dark/">Bells in the dark</a>, Dr Mike Lynch, for CIO UK</div>
+								</div>
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">News</div>
+											<div class="menu-item"><a href="/content/News/index.en.html">Latest News</a></div>
+											<div class="menu-item"><a href="/content/News/Releases/index.en.html">Press Release Archives</a></div>
+											<div class="menu-item"><a href="/content/News/in-the-news/index.en.html">Autonomy in the News</a></div>
+											<div class="menu-item"><a href="/content/News/FAQ/index.en.html">Press Fact Sheet</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">Events</div>
+											<div class="menu-item"><a href="/content/News/Events/Seminars/index.en.html">Seminars</a></div>
+											<div class="menu-item"><a href="/content/News/Events/Webinars/index.en.html">Webinars</a></div>
+											<div class="menu-item"><a href="/content/News/Events/Tradeshows/index.en.html">Trade Shows</a></div>
+											<div class="menu-item"><a href="/content/News/Events/customer-innovation-forum/index.en.html">Customer Innovation Forum</a></div>
+										</td>
+										<td>
+											<div class="menu-item-heading-2">RSS Feeds</div>
+											<div class="menu-item"><img alt="" /><a href="/XML/feeds/news-rss2.xml?num=16">All Autonomy News</a></div>
+											<div class="menu-item"><img alt="" /><a href="/XML/feeds/news-rss2.xml?num=16&amp;division=power">Autonomy Power News</a></div>
+											<div class="menu-item"><img alt="" /><a href="/XML/feeds/news-rss2.xml?num=16&amp;division=protect">Autonomy Protect News</a></div>
+											<div class="menu-item"><img alt="" /><a href="/XML/feeds/news-rss2.xml?num=16&amp;division=promote">Autonomy Promote News</a></div>
+											<div class="menu-item"><img alt="" /><a href="/XML/in-the-news-rss2.xml">Press Coverage</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="datedesc" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_news" type="hidden" value="news" /><input name="cat_events" type="hidden" value="events" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><input name="site_campaign.autonomy.com" type="hidden" value="campaign.autonomy.com" /><div class="menu-item-text">Search Press Releases:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu10_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu10">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu10_content">
+								<div class="menu-item-dynamic" id="MB_DYNAMIC-LATEST-ANNUAL-REPORT">
+									<table>
+										<tr>
+											<td><a href="http://publications.autonomy.com/pdfs/Autonomy/Autonomy%20Investors/Annual%20Reports/Autonomy_Annual_Report_2010.pdf"><img alt="" class="menu-item-thumbnail" /></a></td>
+											<td>
+												<div class="menu-item-heading-1 menu-item-heading-1-dynamic"><a href="http://publications.autonomy.com/pdfs/Autonomy/Autonomy%20Investors/Annual%20Reports/Autonomy_Annual_Report_2010.pdf">Autonomy Annual Report 2010</a></div>
+												<div class="menu-item-text"><a href="http://publications.autonomy.com/pdfs/Autonomy/Autonomy%20Investors/Annual%20Reports/Autonomy_Annual_Report_2010.pdf">Click here to read the Annual Report...</a></div>
+											</td>
+										</tr>
+									</table>
+								</div>
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Investor Information</div>
+											<div class="menu-item"><a href="/content/Investors/index.en.html">Investor Home</a></div>
+											<div class="menu-item"><a href="/content/Investors/about-autonomy/index.en.html">About Autonomy</a></div>
+											<div class="menu-item"><img alt="" /><a href="/content/Investors/financial-reports/index.en.html">Financial Reports</a></div>
+											<div class="menu-item"><a href="/content/Investors/Releases/2011/index.en.html">Regulatory Announcements</a></div>
+											<div class="menu-item"><a href="/content/Investors/investor-question-board/index.en.html">Investors&#39; Question Board</a></div>
+											<div class="menu-item"><a href="/content/Investors/calendar/index.en.html">Events Calendar</a></div>
+											<div class="menu-item"><img alt="" /><a href="/content/Investors/event-downloads/index.en.html">Event Presentations</a></div>
+										</td>
+									</tr>
+								</table>
+								<div class="menu-item-search-category">
+									<form action="/content/IDOL7/index.en.html" method="get"><input name="mode" type="hidden" value="autonomy" /><input name="advance" type="hidden" value="true" /><input name="unsetfieldcheck" type="hidden" value="true" /><input name="weight" type="hidden" value="30" /><input name="num_results" type="hidden" value="20" /><input name="sort" type="hidden" value="datedesc" /><input name="filetype" type="hidden" value="*" /><input name="query_lang" type="hidden" value="en" /><input name="lang_en" type="hidden" value="en" /><input name="cat_investors" type="hidden" value="investors" /><input name="site_www.autonomy.com" type="hidden" value="www.autonomy.com" /><input name="site_publications.autonomy.com" type="hidden" value="publications.autonomy.com" /><div class="menu-item-text">Search within Investors:<input class="text" name="query" type="text" value="" /><input class="submit" type="submit" value="search" /></div>
+									</form>
+								</div>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu11_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu11">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu11_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Quick Links</div>
+											<div class="menu-item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Request Information<img alt="" /></a></div>
+											<div class="menu-item"><img alt="" /><a href="/content/Autonomy/Publications/index.en.html">Publications Download Library</a></div>
+											<div class="menu-item"><a href="/">Home Page</a></div>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu12_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu12">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu12_content">
+								<table class="menu-item-group">
+									<tr>
+										<td class="menu-item-group-major">
+											<div class="menu-item"><a href="/content/Legal/LegalDisclaimer.en.html">Request Information</a></div>
+											<div class="menu-item"><a href="/content/Legal/PrivacyPolicy.en.html">Privacy Policy</a></div>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu13_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu13">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu13_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item-heading-2">Quick Links</div>
+											<div class="menu-item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Request Information<img alt="" /></a></div>
+											<div class="menu-item"><img alt="" /><a href="/content/Autonomy/Publications/index.en.html">Publications Download Library</a></div>
+											<div class="menu-item"><a href="/">Home Page</a></div>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="mbt-menu-tab" id="menu14_tab"><img alt="" /></div>
+		<div class="mbt-menu" id="menu14">
+			<div class="mbt-content">
+				<table class="mbt-rounded">
+					<tr>
+						<td class="mbt-rounded-top-left"><img alt="" /></td>
+						<td class="mbt-rounded-top-middle"><img alt="" /></td>
+						<td class="mbt-rounded-top-right"><img alt="" /></td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-middle-left">&nbsp;</td>
+						<td class="mbt-rounded-middle-middle">
+							<div class="mbt-rounded-content" id="menu14_content">
+								<table class="menu-item-group">
+									<tr>
+										<td>
+											<div class="menu-item"><a href="http://campaign.autonomy.com/registration/register.html?campaign=98fef1cb0710c7fb238102507ea1c9cecontactautonomy">Contact Autonomy<img alt="" /></a><div class="menu-item-hint">Click here to contact Autonomy</div>
+											</div>
+											<div class="menu-item"><a href="/content/Autonomy/Offices/index.en.html">Autonomy Offices</a></div>
+											<div class="menu-item"><a href="/content/Services/Support/index.en.html">Technical Support</a></div>
+											<div class="menu-item"><a href="/content/News/index.en.html">Latest News</a></div>
+											<div class="menu-item"><a href="/content/News/Events/Seminars/index.en.html">Seminars</a></div>
+											<div class="menu-item"><a href="/content/Investors/index.en.html">Investors</a></div>
+											<div class="menu-item"><a href="/">Home Page</a></div>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</td>
+						<td class="mbt-rounded-middle-right">&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="mbt-rounded-bottom-left"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-middle"><img alt="" /></td>
+						<td class="mbt-rounded-bottom-right"><img alt="" /></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<noscript>
+			<div><img alt="DCSIMG" height="1" id="DCSIMG" width="1" /></div> </noscript>
+		<iframe frameborder="0" height="1" width="1">
+		</iframe>
+		<div style="display:none;"><a href="/spidertrap/">&nbsp;</a></div> </body>      </html>
