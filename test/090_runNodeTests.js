@@ -5,15 +5,22 @@ var test  = require("tap").test
 
 // List of corpus files to test
 var files = process.argv; files.shift(); files.shift();
+
+var defaultZiprip = '../src/ziprip.js';
+if (files[0] && files[0].match(/\.js$/)) {
+    var defaultZiprip = files.shift();
+}
+
 if (files.length == 0 ) {
-    files = fs.readdirSync('./test/corpus/');
+    files = fs.readdirSync(__dirname + '/corpus/');
     for (var i = 0; i < files.length; i++) {
-        files[i] = './test/corpus/' + files[i];
+        files[i] = __dirname + '/corpus/' + files[i];
     }
 }
 
+
 // Load up ziprip
-var ziprip = require('../src/ziprip');
+var ziprip = require( defaultZiprip );
 var json = ziprip._zipripToolkit['json'];
 
 var passes = 0;
