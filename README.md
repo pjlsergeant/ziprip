@@ -14,15 +14,15 @@ You can download the latest **browser version** on the [downloads](https://githu
 
 For **node.js**, simply:
 
-  npm install ziprip
+    npm install ziprip
 
 And finally if you just want to play around with it in your **browser's javascript console**, you can do:
 
-  var script=document.createElement('script');script.type='text/javascript';script.src='http://cloud.github.com/downloads/sheriff/ziprip/ziprip-latest.js';document.head.appendChild(script);
+    var script=document.createElement('script');script.type='text/javascript';script.src='http://cloud.github.com/downloads/sheriff/ziprip/ziprip-latest.js';document.head.appendChild(script);
 
 and then, having given it a second to load:
 
-  window.ziprip.extract( document, window.URL );
+    window.ziprip.extract( document, window.URL );
 
 ## Usage
 
@@ -46,7 +46,8 @@ atoms - An array of strings, representing the street address. Could be empty. ["
 * `flatten` - Returns `atoms`, `postcode`, and `country` as one flat list: ["10 Downing Street", "SW1A 2AA", "UK"]
 * `formatForGeocode` - Returns a string suitable for passing to a geocoder. Country is included only if it's not 'US', and other fields are comma-delimited, with title ommitted. "10 Downing Street, SW1A 2AA, UK"
 
-
 ****
+
+[![Build Status](https://secure.travis-ci.org/sheriff/ziprip.png)](http://travis-ci.org/sheriff/ziprip)
 
 *ziprip* is released under the [MIT license](https://github.com/sheriff/ziprip/blob/master/LICENSE.txt/), because all of its external dependencies use it. That, kids, is the magic of open source, or something.
