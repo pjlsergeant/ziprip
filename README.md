@@ -8,6 +8,8 @@ Currently it handles UK and US addresses. Adding other English-speaking countrie
 
 # Getting It
 
+## Client-side
+
 You can download the latest **browser version** on the [downloads](https://github.com/sheriff/ziprip/downloads) page, or from the `dist` directory.
 
 For **node.js**, simply:
@@ -25,6 +27,18 @@ and then, having given it a second to load:
 # Usage
 
 *ziprip* has one method you should be interested in: `extract`, which accepts a *DOM object* and a *URL*. For *node.js* you can use [jsdom](https://github.com/tmpvar/jsdom/) for your DOM object, and in the browser obviously you just pass in `document`.
+
+**node.js**
+
+    var $ziprip = require('ziprip');
+    var addresses = $ziprip.extract( domObject, url );
+
+**Browser**
+
+    <script type="text/javascript" src="ziprip.js"></script>
+    <script>
+        var addresses = window.ziprip.extract( document, window.URL );
+    </script>
 
 This will return several *address objects*:
 
