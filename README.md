@@ -1,5 +1,3 @@
-**ALPHA RELEASE**
-
 ziprip is a Javascript library for extracting postal address from webpages for
 geocoding. This could be useful for bookmarklets or browser plugins that want to
 allow people to clip addresses from the browser, or for Node applications that
