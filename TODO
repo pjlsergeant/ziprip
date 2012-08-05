@@ -1,4 +1,10 @@
 
+- Proper build tools
+	- I want to be able to test the browser version against the corpus tests
+	- I want to automatically generate in dist/
+		- ziprip.browser.version.js
+		- ziprip.browser.min.version.js
+		- ziprip.version.tgz
 
 - Create a simple example bookmarklet
 	- Shows addresses, a few links

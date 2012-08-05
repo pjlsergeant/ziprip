@@ -9,7 +9,7 @@
       "email": "pete@clueball.com"
     }
   ],
-  "main": "./dist/ziprip-latest.js",
+  "main": "./src/ziprip.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/sheriff/Zip-Rip.git"
@@ -28,5 +28,8 @@
   "license": "MIT",
   "engine": {
     "node": ">=0.4"
+  },
+  "scripts": {
+    "test": "tap ./test/*.js"
   }
 }

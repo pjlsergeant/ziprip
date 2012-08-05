@@ -1,12 +1,12 @@
 
 var jsdom = require("jsdom");
 var fs    = require('fs');
-var test  = require("tap").test
+var test  = require("tap").test;
 
 // List of corpus files to test
 var files = process.argv; files.shift(); files.shift();
 
-var defaultZiprip = '../src/ziprip.js';
+var defaultZiprip = '../';
 if (files[0] && files[0].match(/\.js$/)) {
     var defaultZiprip = files.shift();
 }

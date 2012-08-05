@@ -15,14 +15,16 @@ my $version = $package_data->{'version'};
 
 # Load all the various library files
 my @libraries = map {
+
     my $path = $_;
     my $contents = read_file $path;
+    $contents =~ s/\brequire\(/zrRequire(/g;
     my ($name) = $path =~ m/([\w\d]+)\.js$/;
 
     {
         path => $path,
         contents => $contents,
-        name => $name
+        name => './' . $name
     }
 } sort File::Find::Rule
     ->file()
@@ -89,7 +91,7 @@ __DATA__
 
 var libraries = {};
 
-var require = function (name) {
+var zrRequire = function (name) {
     return libraries[name]();
 }
 
@@ -107,11 +109,11 @@ libraries['[% library.name %]'] = function () {
 
 if (typeof exports !== 'undefined') {
     if (typeof module !== 'undefined' && module.exports) {
-        exports = module.exports = require('ziprip');
+        exports = module.exports = zrRequire('./ziprip');
     }
-    exports.ziprip = require('ziprip');
+    exports.ziprip = zrRequire('./ziprip');
 } else {
-    this['ziprip'] = require('ziprip');
+    this['ziprip'] = zrRequire('./ziprip');
 }
 
 }).call(this);
