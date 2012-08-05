@@ -1,0 +1,1 @@
+These files are combined by 'scripts/build.pl' in to the files you should use in 'dist/'. Unless you're developing the ziprip code, you shouldn't touch any of these.
