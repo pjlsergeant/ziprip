@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>ziprip.js by sheriff</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>ziprip.js</h1>
+        <p>Extract postal addresses from the DOM</p>
+
+        <p class="view"><a href="https://github.com/sheriff/ziprip">View the Project on GitHub <small>sheriff/ziprip</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/sheriff/ziprip/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/sheriff/ziprip/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/sheriff/ziprip">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>Extract Postal Addresses from Web Pages, in the browser</h1>
+
+<p><em>ziprip</em> looks for postal addresses on webpages, either in the browser or in node.js. It also works very hard to try and geocode the addresses it finds, usually by searching the page for things like <em>Google Maps</em> elements and so on.</p>
+
+<p>It's intended especially to be used for bookmarklets and browser plugins, and used to power a website called <a href="http://www.placesteal.com/">PlaceSteal</a> that never really took off.</p>
+
+<p>Currently it handles UK and US addresses. Adding other English-speaking countries should be trivial, other languages a bit more challenging but certainly doable.</p>
+
+<h1>Getting It</h1>
+
+<h2>Client-side</h2>
+
+<p>You can download the latest <strong>browser version</strong> on the <a href="https://github.com/sheriff/ziprip/downloads">downloads</a> page, or from the <code>dist</code> directory.</p>
+
+<p>For <strong>node.js</strong>, simply:</p>
+
+<pre><code>npm install ziprip
+</code></pre>
+
+<p>And finally if you just want to play around with it in your <strong>browser's javascript console</strong>, you can do:</p>
+
+<pre><code>var script=document.createElement('script');script.type='text/javascript';script.src='http://cloud.github.com/downloads/sheriff/ziprip/ziprip-latest.js';document.head.appendChild(script);
+</code></pre>
+
+<p>and then, having given it a second to load:</p>
+
+<pre><code>window.ziprip.extract( document, window.URL );
+</code></pre>
+
+<h1>Usage</h1>
+
+<p><em>ziprip</em> has one method you should be interested in: <code>extract</code>, which accepts a <em>DOM object</em> and a <em>URL</em>. For <em>node.js</em> you can use <a href="https://github.com/tmpvar/jsdom/">jsdom</a> for your DOM object, and in the browser obviously you just pass in <code>document</code>.</p>
+
+<p><strong>node.js</strong></p>
+
+<pre><code>var $ziprip = require('ziprip');
+var addresses = $ziprip.extract( domObject, url );
+</code></pre>
+
+<p><strong>Browser</strong></p>
+
+<pre><code>&lt;script type="text/javascript" src="ziprip.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    var addresses = window.ziprip.extract( document, window.URL );
+&lt;/script&gt;
+</code></pre>
+
+<p>This will return several <em>address objects</em>:</p>
+
+<p>Consider the address: <em>Prime Minister's Residence, 10 Downing Street, SW1A 2AA, UK</em>...</p>
+
+<h2>Attributes</h2>
+
+<ul>
+<li>
+<code>title</code> - A title for the address: "Prime Minister's Residence" in the example above. This may be the same as the first item in <code>atoms</code> if we didn't find a more suitable title.
+atoms - An array of strings, representing the street address. Could be empty. ["10 Downing Street"] in the example above.</li>
+<li>
+<code>postcode</code> - The postcode or zipcode for the address. Will always be set. "SW1A 2AA" in the example above.</li>
+<li>
+<code>country</code> - The country the address is in. Will always be set. Current possible values are 'US' and 'UK' - "UK" in the example above.</li>
+<li>
+<code>lat</code>/<code>lon</code> - Coordinates for the address. Some extractors will also be able to determine these, so they're included. Should be either undefined or integer. Undefined in the example above.</li>
+</ul><h2>Methods</h2>
+
+<ul>
+<li>
+<code>isGeocoded</code> - <em>Boolean</em> - are <code>lat</code> and <code>lon</code> set?</li>
+<li>
+<code>flatten</code> - Returns <code>atoms</code>, <code>postcode</code>, and <code>country</code> as one flat list: ["10 Downing Street", "SW1A 2AA", "UK"]</li>
+<li>
+<code>formatForGeocode</code> - Returns a string suitable for passing to a geocoder. Country is included only if it's not 'US', and other fields are comma-delimited, with title ommitted. "10 Downing Street, SW1A 2AA, UK"</li>
+</ul><hr><p><a href="http://travis-ci.org/sheriff/ziprip"><img src="https://secure.travis-ci.org/sheriff/ziprip.png" alt="Build Status"></a></p>
+
+<p><em>ziprip</em> is released under the <a href="https://github.com/sheriff/ziprip/blob/master/LICENSE.txt/">MIT license</a>, because all of its external dependencies use it. That, kids, is the magic of open source, or something.</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/sheriff">sheriff</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-33900327-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
