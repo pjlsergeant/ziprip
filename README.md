@@ -51,3 +51,8 @@ atoms - An array of strings, representing the street address. Could be empty. ["
 [![Build Status](https://secure.travis-ci.org/sheriff/ziprip.png)](http://travis-ci.org/sheriff/ziprip)
 
 *ziprip* is released under the [MIT license](https://github.com/sheriff/ziprip/blob/master/LICENSE.txt/), because all of its external dependencies use it. That, kids, is the magic of open source, or something.
+
+<a title="Real Time Web Analytics" href="http://getclicky.com/66482803"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66624728); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66624728ns.gif" /></p></noscript>
