@@ -7,9 +7,11 @@ It currently supports UK and US addresses only. Extending it to other
 English-language addresses should be trivial, to non-English-language addresses
 a little trickier, but on the roadmap.
 
-*Documentation*: http://zipripjs.com/
+[![Build Status](https://secure.travis-ci.org/sheriff/ziprip.png)](http://travis-ci.org/sheriff/ziprip)
 
-*Code is in 'dist/'*
+_Documentation_: http://zipripjs.com/
+
+_Code is in 'dist/'_
 
 ziprip can run both as a node module and in the browser.
 
