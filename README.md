@@ -1,8 +1,3 @@
----
-layout: default
-title: ziprips.js - Extract Postal Addresses from Web Pages, in the browser
----
-
 # Extract Postal Addresses from Web Pages, in the browser
 
 *ziprip* looks for postal addresses on webpages, either in the browser or in node.js. It also works very hard to try and geocode the addresses it finds, usually by searching the page for things like *Google Maps* elements and so on.
@@ -21,15 +16,11 @@ For **node.js**, simply:
 
 And finally if you just want to play around with it in your **browser's javascript console**, you can do:
 
-{% highlight javascript %}
     var script=document.createElement('script');script.type='text/javascript';script.src='http://cloud.github.com/downloads/sheriff/ziprip/ziprip-latest.js';document.head.appendChild(script);
-{% endhighlight %}
 
 and then, having given it a second to load:
 
-{% highlight javascript %}
     window.ziprip.extract( document, window.URL );
-{% endhighlight %}
 
 # Usage
 
