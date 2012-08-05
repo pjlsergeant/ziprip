@@ -61,11 +61,14 @@ print "Removing contents of dist\n";
 print "Moving over new files\n";
 
 my $output_filename = sprintf('dist/ziprip.%s.js', $version);
+my $output_uglyfilename = sprintf('dist/ziprip.%s.min.js', $version);
+
 move( $filename, $output_filename ) || die $!;
-move( $ugly_filename, sprintf('dist/ziprip.%s.min.js', $version) ) || die $!;
+move( $ugly_filename, $output_uglyfilename ) || die $!;
 
 # Link ziprip.js to the versioned one
-`cp $output_filename ./dist/ziprip-latest.js`;
+`ln -s $output_filename ./dist/ziprip-latest.js`;
+`ln -s $output_uglyfilename ./dist/ziprip-latest.min.js`;
 
 print "OK, all worked!\n";
 print `ls dist`;
