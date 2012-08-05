@@ -9,7 +9,9 @@ It currently supports UK and US addresses only. Extending it to other
 English-language addresses should be trivial, to non-English-language addresses
 a little trickier, but on the roadmap.
 
-**Documentation**: http://zipripjs.com/
+*Documentation*: http://zipripjs.com/
+
+*Code is in 'dist/'*
 
 ziprip can run both as a node module and in the browser.
 
