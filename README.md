@@ -13,6 +13,12 @@ _Documentation_: http://zipripjs.com/
 
 _Code is in 'dist/'_
 
+Installation via npm:
+
+     npm install ziprip
+
+Or download the latest browser version from downloads, above.
+
 ziprip can run both as a node module and in the browser.
 
 ziprip came from the code that powers http://www.placesteal.com/
