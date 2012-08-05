@@ -67,8 +67,8 @@ move( $filename, $output_filename ) || die $!;
 move( $ugly_filename, $output_uglyfilename ) || die $!;
 
 # Link ziprip.js to the versioned one
-`ln -s $output_filename ./dist/ziprip-latest.js`;
-`ln -s $output_uglyfilename ./dist/ziprip-latest.min.js`;
+`cp $output_filename ./dist/ziprip-latest.js`;
+`cp $output_uglyfilename ./dist/ziprip-latest.min.js`;
 
 print "OK, all worked!\n";
 print `ls dist`;
