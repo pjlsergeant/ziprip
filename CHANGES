@@ -1,5 +1,7 @@
+0.0.3 -  6 Aug 2012
+    - Fixed minor node packaging issues
 0.0.2 -  5 Aug 2012
-	+ Support GMail
-	+ Distribute as a monolithic node or otherwise file
+    + Support GMail
+    + Distribute as a monolithic node or otherwise file
 0.0.1 -  4 Aug 2012
-	+ Initial release
+    + Initial release

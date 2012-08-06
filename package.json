@@ -1,6 +1,6 @@
 {
   "name": "ziprip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Peter Sergeant <pete@clueball.com>",
   "description": "Extract postal addresses from the DOM",
   "contributors": [
@@ -12,7 +12,7 @@
   "main": "./src/ziprip.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sheriff/Zip-Rip.git"
+    "url": "git@github.com:sheriff/ziprip.git"
   },
   "keywords": [
     "postcode",
